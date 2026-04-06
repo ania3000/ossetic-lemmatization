@@ -3294,7 +3294,7 @@
 7	хабæрттæ	хабар	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 8	бакодтой	бакæнын	VERB	_	Mood=Ind|Number=Plur|Person=3|Preverb=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	_	_	_	_
-10	алчи	алцы	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
+10	алчи	алчи	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
 11	дæр	дæр	PART	_	_	_	_	_	_
 12	бинонтæ	бинонтæ	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 13	ссардта	ссарын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -7376,7 +7376,7 @@
 2	разы	раз	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	дзургæ	дзурын	VERB	_	VerbForm=Conv	_	_	_	_
 4	дæр	дæр	PART	_	_	_	_	_	_
-5	ничи	ницы	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
+5	ничи	ничи	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
 6	скæндзæн	скæнын	AUX	_	Mood=Ind|Number=Sing|Person=3|Preverb=Yes|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	_	_	_	_
 8	æвзæр	ӕвзӕр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -7386,7 +7386,7 @@
 12	,	,	PUNCT	_	_	_	_	_	_
 13	хъæр	хъӕр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	дæр	дæр	PART	_	_	_	_	_	_
-15	ничи	ницы	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
+15	ничи	ничи	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
 16	скæндзæн	скæнын	AUX	_	Mood=Ind|Number=Sing|Person=3|Preverb=Yes|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	_	_	_	_
 18	æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -7470,7 +7470,7 @@
 3	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 4	йер	йер	ADV	_	PronType=Dem	_	_	_	_
 5	хуызисæг	хуызисӕг	NOUN	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
-6	чи	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
+6	чи	чи	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 7	уа	уæвын	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
 9	уый	уый	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
