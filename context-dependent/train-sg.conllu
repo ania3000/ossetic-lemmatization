@@ -705,8 +705,8 @@
 5	куы	куы	ADV	_	PronType=Int	_	_	_	_
 6	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 7-8	рбайхъусид	_	_	_	_	_	_	_	$
-7	рба	æрба	VERB	_	Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
-8	хъусид	хъусын	VERB	_	Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
+7	рба	æрба	PART	_	_	_	_	_	_
+8	хъусид	хъусын	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
 9	æддæйæ	æддæ	NOUN	_	Case=Abl|Number=Sing	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
 11	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
@@ -1548,7 +1548,7 @@
 11-12	Бахатыр	_	_	_	_	_	_	_	_
 11	ба	ба	PART	_	_	_	_	_	_
 12	хатыр	хатыр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-13	кæнут	кæнын	AUX	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
+13	кæнут	кæнын	AUX	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	_	_	_	_
 15	мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	_
 16	уæм	сымах	PRON	_	Case=All|Number=Plur|Person=2|PronType=Prs	_	_	_	_
