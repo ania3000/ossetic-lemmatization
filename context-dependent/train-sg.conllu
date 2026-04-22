@@ -18963,7 +18963,9 @@
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2	доны	дон	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	был	был	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	ацырдыгæй	ацы	PRON	_	Case=Rcs|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
+4-5	ацырдыгæй	_	_	_	_	_	_	_	_
+4	ацы	ацы	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
+5	рдыгæй	æрдæг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 5	нæй	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	_	_	_	_
 
