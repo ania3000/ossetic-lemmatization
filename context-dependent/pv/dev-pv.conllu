@@ -8884,7 +8884,7 @@
 7	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 8-9	фесæфти	_	_	_	_	_	_	_	SpaceAfter=No
 8	фе	фæ	PART	_	_	_	_	_	_
-9	сæфти	сæфын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+9	сæфти	сафын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 484
@@ -8923,7 +8923,7 @@
 11	куы	куы	ADV	_	PronType=Int	_	_	_	_
 12-13	фесæфти	_	_	_	_	_	_	_	SpaceAfter=No
 12	фе	фæ	PART	_	_	_	_	_	_
-13	сæфти	сæфын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+13	сæфти	сафын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	_	_	_	_
 15	цыкуырайы	цыкуыра	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 16	фæрдыг	фӕрдыг	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
