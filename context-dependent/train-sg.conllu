@@ -6250,7 +6250,7 @@
 
 # sent_id = 373
 # text = Риуылдарджытæ сты.
-1	Риуылдарджытæ	риулдарæг	NOUN	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+1	Риуылдарджытæ	риуылдарæг	NOUN	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 2	сты	уæвын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -6406,7 +6406,7 @@
 # text = Ай дæр Виталик афтæ зæгъы…
 1	Ай	ай	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 2	дæр	дæр	PART	_	_	_	_	_	_
-3	Виталик	Виталкик	NPROP	_	Case=Nom|Number=Sing	_	_	_	_
+3	Виталик	Виталик	NPROP	_	Case=Nom|Number=Sing	_	_	_	_
 4	афтæ	афтӕ	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
 5	зæгъы	зæгъын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	…	…	PUNCT	_	_	_	_	_	_
@@ -7432,7 +7432,7 @@
 6	уæм	сымах	PRON	_	Case=All|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 7	не	нæ	PART	_	Polarity=Neg	_	_	_	_
 8	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
-9	рбацыди	_	_	_	_	_	_	_	SpaceAfter=No
+9-10	рбацыди	_	_	_	_	_	_	_	SpaceAfter=No
 9	рба	æрба	PART	_	_	_	_	_	_
 9	цыди	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	_	_	_	_
@@ -9010,7 +9010,7 @@
 2	заявлени	заявлени	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3-4	ныффыссын	_	_	_	_	_	_	_	_
 3	ны	ны	PART	_	_	_	_	_	_
-4	фыссын	ффыссын	VERB	_	Aspect=Perf|VerbForm=Inf	_	_	_	_
+4	фыссын	фыссын	VERB	_	Aspect=Perf|VerbForm=Inf	_	_	_	_
 5	кодтон	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 6	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 7	æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -17509,7 +17509,7 @@
 21	шахтæмæ	шахтӕ	NOUN	_	Case=All|Number=Sing	_	_	_	_
 22	не	нæ	PART	_	Polarity=Neg	_	_	_	_
 23	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
-24	рбацыди	_	_	_	_	_	_	_	SpaceAfter=No
+24-25	рбацыди	_	_	_	_	_	_	_	SpaceAfter=No
 24	рба	æрба	PART	_	_	_	_	_	_
 24	цыди	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	_	_	_	_
