@@ -9130,7 +9130,7 @@
 3	куы	куы	PART	_	_	_	_	_	_
 4-5	ныккæуы	_	_	_	_	_	_	_	SpaceAfter=No
 4	ны	ны	PART	_	_	_	_	_	_
-5	кæуы	ккæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+5	кæуы	кæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	_	_	_	_
 7	«	«	PUNCT	_	_	_	_	_	SpaceAfter=No
 8	Папи	папи	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -11207,7 +11207,7 @@
 19	йед	йед	PRON	_	Case=Nom|Number=Sing	_	_	_	_
 20-21	райстон	_	_	_	_	_	_	_	SpaceAfter=No
 20	ра	ра	PART	_	_	_	_	_	_
-21	истон	йсын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+21	истон	исын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 22	…	…	PUNCT	_	_	_	_	_	_
 23	хæс	хӕс	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 24	æртæ	ӕртӕ	NUM	_	Case=Nom|NumType=Card|Number=Sing	_	_	_	_
@@ -12099,7 +12099,7 @@
 2	:	:	PUNCT	_	_	_	_	_	_
 3-4	Æрхъуыды	_	_	_	_	_	_	_	_
 3	æр	æр	PART	_	_	_	_	_	_
-4	хъуыды	ӕрхъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+4	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	кодтай	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	_	_	_	_
