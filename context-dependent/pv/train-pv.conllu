@@ -2980,7 +2980,7 @@
 4-6	фæцæйцыдысты	_	_	_	_	_	_	_	SpaceAfter=No
 4	фæ	фæ	PART	_	_	_	_	_	_
 5	цæй	цæй	PART	_	_	_	_	_	_
-6	цыдысты	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+6	цыдысты	цæуын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	_	_	_	_
 8	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 9	уже	уже	ADV	_	_	_	_	_	_
