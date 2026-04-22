@@ -20661,7 +20661,9 @@
 9	,	,	PUNCT	_	_	_	_	_	_
 10	ды	ды	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 11	та	та	PART	_	_	_	_	_	_
-12	ацырдæм	ацы	PRON	_	Case=Dir|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
+12-13	ацырдæм	_	_	_	_	_	_	_	_
+12	ацы	ацы	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
+13	рдæм	æрдæг	NOUN	_	Case=All|Number=Sing	_	_	_	_
 13-14	рацу	_	_	_	_	_	_	_	SpaceAfter=No
 13	ра	ра	PART	_	_	_	_	_	_
 14	цу	цæуын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -22165,7 +22167,9 @@
 3	къæхтæ	къах	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 4	уыдысты	уæвын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 5	куыддæр	куыддӕр	ADV	_	PronType=Ind	_	_	_	_
-6	иннæрздæм	иннæ	NOUN	_	Case=Dir|Number=Sing	_	_	_	_
+6-7	иннæрздæм	_	_	_	_	_	_	_	_
+6	иннæ	иннæ	ADJ	_	_	_	_	_	_
+7	рздæм	æрдæг	NOUN	_	Case=All|Number=Sing	_	_	_	_
 7	здыхт	здухын	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -24846,7 +24850,9 @@
 7	,	,	PUNCT	_	_	_	_	_	_
 8	дам	дам	PART	_	_	_	_	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	_	_	_	_
-10	иннæрдæм	иннӕ	NOUN	_	Case=Dir|Number=Sing	_	_	_	_
+10-11	иннæрдæм	_	_	_	_	_	_	_	_
+10	иннæ	иннӕ	ADJ	_	_	_	_	_	_
+11	рдæм	æрдæг	NOUN	_	Case=All|Number=Sing	_	_	_	_
 11	конд	конд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	_	_	_	_
 13	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
