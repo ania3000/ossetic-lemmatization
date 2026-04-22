@@ -21043,7 +21043,7 @@
 2	:	:	PUNCT	_	_	_	_	_	_
 3	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 4	йер	йер	ADV	_	PronType=Dem	_	_	_	_
-5	кувгæйæ	кувгæ	NOUN	_	Case=Abl|Number=Sing|VerbForm=Conv	_	_	_	_
+5	кувгæйæ	кувгæйæ	ADV	_	VerbForm=Conv2	_	_	_	_
 6	ахæм	ахæм	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
 7	ран	ран	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
