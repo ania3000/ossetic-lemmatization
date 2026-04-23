@@ -9156,7 +9156,7 @@
 6-7	æрæмбырд	_	_	_	_	_	_	_	_
 6	æр	æр	PART	_	_	_	_	_	_
 7	æмбырд	æмбырд	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-8	кæндзынæн	кæнын	AUX	_	Aspect=Perf|    Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
+8	кæндзынæн	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	_	_	_	_
 10	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 11	мæм	ӕз	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -23728,7 +23728,7 @@
 11-12	ныхъæбыстæ	_	_	_	_	_	_	_	_
 11	ны	ны	PART	_	_	_	_	_	_
 12	хъæбыстæ	хъæбыс	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-13	кодта	кæнын	AUX	_	Aspect=perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+13	кодта	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 14	ой	ой	INTJ	_	_	_	_	_	_
 15	маладæц	маладæц	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 16	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
