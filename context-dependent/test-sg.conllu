@@ -1512,7 +1512,7 @@
 
 # sent_id = 89
 # text = Чысиаты Ирбег: Нал ис уже.
-1	Чысиаты	Чысиаты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Чысиаты	Чысиатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Ирбег	Ирбег	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Нал	нал	PART	_	Polarity=Neg	_	_	_	_
@@ -2860,7 +2860,7 @@
 
 # sent_id = 158
 # text = Гуыбаты Людæ: Æмæ цы зæгъынмæ хъавыдтæ ома?
-1	Гуыбаты	Гуыбаты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -4132,7 +4132,7 @@
 2	ма	ма	PART	_	_	_	_	_	_
 3	сæ	уыдон	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	кæныс	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
-5	Стёпинты	Стёпин	NPROP	_	Case=Gen|Number=Plur	_	_	_	SpaceAfter=No
+5	Стёпинты	Стёпинтæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
 7	Мæдинæ	Мӕдинӕ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	_	_	_	_
@@ -4514,7 +4514,7 @@
 
 # sent_id = 254
 # text = Сохъуырты Валерий: Нæхимæ-иу бацыдтæн, хъуыдытæ-хъуыдытæ, пъартфел-иу ныззыввытт ластон иу фарс æмæ та-иу хуыссæныл мæхи баппæрстон, æмæ та хъуыды кæнын, райсом, зæгъын, хъуамæ зæгъон.
-1	Сохъуырты	Сохъуырты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Сохъуырты	Сохъуыртæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Валерий	Валерий	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Нæхимæ	нӕхӕдӕг	PRON	_	Case=All|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=No
@@ -5154,7 +5154,7 @@
 
 # sent_id = 287
 # text = Гуыбаты Людæ: Уыдон уыдысты Арсен æмæ Артур, нæ чысыл радиомæхъусджытæ.
-1	Гуыбаты	Гуыбаты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Уыдон	уыдон	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
@@ -6397,7 +6397,7 @@
 
 # sent_id = 360
 # text = Сохъуырты Валерий: Ома, зæгъон, мæ зæрдæмæ цæуыс.
-1	Сохъуырты	Сохъуырты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Сохъуырты	Сохъуыртæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Валерий	Валерий	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Ома	ома	SCONJ	_	_	_	_	_	SpaceAfter=No
@@ -6432,7 +6432,7 @@
 
 # sent_id = 362
 # text = Гуыбаты Людæ: Светланæ, æнæуый ахуыры бонтæ арæх æрхъуыды кæнут уым дард Мæскуыйы цæргæйæ?
-1	Гуыбаты	Гуыбаты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Светланæ	Светланæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
@@ -7328,7 +7328,7 @@
 5	куывта	кувын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	_	_	_	_
 7	«	«	PUNCT	_	_	_	_	_	SpaceAfter=No
-8	Хуыцæутты	Хуыцӕу	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+8	Хуыцæутты	Хуыцау	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 9	Хуыцау	Хуыцау	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 10	!	!	PUNCT	_	_	_	_	_	_
 
@@ -8446,7 +8446,7 @@
 4	Хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	кæнут	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
-7	Хъаныхъуаты	Хъаныхъуат	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+7	Хъаныхъуаты	Хъаныхъуатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 8	лæппу	лӕппу	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
 10	…	…	PUNCT	_	_	_	_	_	_

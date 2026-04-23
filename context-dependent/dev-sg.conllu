@@ -754,7 +754,7 @@
 
 # sent_id = 44
 # text = Гуыбаты Людæ: Æмæ дзы йер цы ахуырдзаутæ уыд, уыдоныл цалгай азтæ цыди?
-1	Гуыбаты	Гуыбаты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -900,7 +900,7 @@
 
 # sent_id = 53
 # text = Гуыбаты Людæ: Дзургæ нæ, фæлæ амонгæ?
-1	Гуыбаты	Гуыбаты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Дзургæ	дзурын	VERB	_	VerbForm=Conv	_	_	_	_
@@ -2974,7 +2974,7 @@
 
 # sent_id = 163
 # text = Дзиуаты Светланæ: О, дыккæгæм уæладзыгæй.
-1	Дзиуаты	Дзиуа	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Дзиуаты	Дзиуатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Светланæ	Светланæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	О	о	INTJ	_	_	_	_	_	SpaceAfter=No
@@ -3084,7 +3084,7 @@
 
 # sent_id = 171
 # text = Дзугаты Къола, гъе æндæр ничи уыд.
-1	Дзугаты	Дзуга	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Дзугаты	Дзугатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Къола	Къола	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	_	_	_	_
 4	гъе	гъе	INTJ	_	_	_	_	_	_
@@ -3496,7 +3496,7 @@
 
 # sent_id = 194
 # text = Гуыбаты Людæ: Изæрон скъолайы, нæ?
-1	Гуыбаты	Гуыбаты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Изæрон	изæрон	ADJ	_	_	_	_	_	_
@@ -3908,7 +3908,7 @@
 6	къуымы	къуым	NOUN	_	Case=Ine|Number=Sing	_	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	_	_	_	_
 8	мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	_
-9	Риммæты	Риммӕ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+9	Риммæты	Риммӕтæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 10	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 11	рдыгæй	ӕрдӕг	NOUN	_	Case=Abl|Number=Sing	_	_	_	$
 12	гъе	гъе	INTJ	_	_	_	_	_	_
@@ -4527,7 +4527,7 @@
 
 # sent_id = 251
 # text = Зыгъуытаты Светланæ: Тамик мæнæ зæгъы…
-1	Зыгъуытаты	Зыгъуыта	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Зыгъуытаты	Зыгъуытатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Светланæ	Светланæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Тамик	Тамик	NPROP	_	Case=Nom|Number=Sing	_	_	_	_
@@ -4998,7 +4998,7 @@
 
 # sent_id = 280
 # text = Дзиуаты Светланæ: Ирон литературæ нын лæвæрдта.
-1	Дзиуаты	Дзиуа	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Дзиуаты	Дзиуатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Светланæ	Светланæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Ирон	ирон	ADJ	_	_	_	_	_	_
@@ -5489,7 +5489,7 @@
 
 # sent_id = 306
 # text = Гуыбаты Людæ: Тамик дæр нын цыдæр дзурынмæ хъавы, уый тынг аивæй хъусæм.
-1	Гуыбаты	Гуыба	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Тамик	Тамик	NPROP	_	Case=Nom|Number=Sing	_	_	_	_
@@ -6983,7 +6983,7 @@
 
 # sent_id = 382
 # text = Зыгъуытаты Светланæ: Уæ бонтæ хорз!
-1	Зыгъуытаты	Зыгъуыта	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Зыгъуытаты	Зыгъуытатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Светланæ	Светланæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Уæ	уæ	DET	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
@@ -7764,7 +7764,7 @@
 
 # sent_id = 422
 # text = Гуыбаты Людæ: Сылгоймаг карздæр зæрдæ вæййы.
-1	Гуыбаты	Гуыбаты	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Сылгоймаг	сылгоймаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -8027,7 +8027,7 @@
 # sent_id = 436
 # text = Йер Абайты Васойы дзырдуат райс, стæй уæд райс Гуыриаты Тамерланы дзырдуат, æмæ йер æй куыд зæгъон, арв æмæ зæххы хуызæн кæрæдзийæ, ахæм дард сты кæрæдзийæ.
 1	Йер	йер	ADV	_	PronType=Dem	_	_	_	_
-2	Абайты	Абай	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+2	Абайты	Абайтæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 3	Васойы	Васо	NPROP	_	Case=Gen|Number=Sing	_	_	_	_
 4	дзырдуат	дзырдуат	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5-6	райс	_	_	_	_	_	_	_	SpaceAfter=No
@@ -8039,7 +8039,7 @@
 10-11	райс	_	_	_	_	_	_	_	_
 10	ра	ра	PART	_	_	_	_	_	_
 11	ис	исын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
-12	Гуыриаты	Гуыриа	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+12	Гуыриаты	Гуыриатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 13	Тамерланы	Тамерлан	NPROP	_	Case=Gen|Number=Sing	_	_	_	_
 14	дзырдуат	дзырдуат	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	_	_	_	_
@@ -8313,7 +8313,7 @@
 
 # sent_id = 449
 # text = Дойаты Жаннæ: Голладжы!
-1	Дойаты	Дойа	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Дойаты	Дойатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Жаннæ	Жаннæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Голладжы	Голлаг	NOUN	_	Case=Ine|Number=Sing	_	_	_	SpaceAfter=No
@@ -8413,7 +8413,7 @@
 
 # sent_id = 456
 # text = Гуыбаты Людæ: Бахатыр кæн, Валерæ, уæд кæцы къласмæ цыдтæ?
-1	Гуыбаты	Гуыба	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Гуыбаты	Гуыбатæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Людæ	Людæ	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4-5	Бахатыр	_	_	_	_	_	_	_	_
@@ -8743,7 +8743,7 @@
 
 # sent_id = 476
 # text = Сохъуырты Валерий: Мæнæ Светæ тынг сæрæн уыди кафынмæ.
-1	Сохъуырты	Сохъуыр	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
+1	Сохъуырты	Сохъуыртæ	NPROP	_	Case=Gen|Number=Plur	_	_	_	_
 2	Валерий	Валерий	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	_
