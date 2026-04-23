@@ -1019,7 +1019,7 @@
 8	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9-10	æрцауыгъта	_	_	_	_	_	_	_	SpaceAfter=No
 9	æр	æр	PART	_	_	_	_	_	_
-10	цауыгъта	цауындзын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+10	ауыгъта	ауындзын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 56
@@ -4796,7 +4796,7 @@
 16	æфсондзыл	ӕфсондз	NOUN	_	Case=Sup|Number=Sing	_	_	_	_
 17-18	æрцауындз	_	_	_	_	_	_	_	SpaceAfter=No
 17	æр	æр	PART	_	_	_	_	_	_
-18	цауындз	цауындзын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
+18	ауындз	ауындзын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 270
