@@ -8797,7 +8797,7 @@
 16	,	,	PUNCT	_	_	_	_	_	_
 17	Сусæны	Cусӕн	NPROP	_	Case=Gen|Number=Sing	_	_	_	_
 18	мæй	мӕй	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-19	фæци	_	_	_	_	_	_	_	SpaceAfter=No
+19-20	фæци	_	_	_	_	_	_	_	SpaceAfter=No
 20	фæ	фæ	PART	_	_	_	_	_	_
 21	и	уæвын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	_	_	_	_
