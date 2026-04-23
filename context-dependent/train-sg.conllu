@@ -18921,7 +18921,7 @@
 9	фæ	фæ	PART	_	_	_	_	_	_
 10	ра	ра	PART	_	_	_	_	_	_
 10	кæн	кæн	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
-10	-	-	VERB	_	_	_	_	_	_
+10	-	-	PUNCT	_	_	_	_	_	_
 10	ба	ба	PART	_	_	_	_	_	_
 10	кæн	кæн	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
 11	кодтой	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
