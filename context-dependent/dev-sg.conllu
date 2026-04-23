@@ -2180,7 +2180,7 @@
 4	хатт	хатт	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 5	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
 6	иу	иу	PART	_	_	_	_	_	_
-7	исчи	исты	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+7	исчи	исчи	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
 8	куы	куы	ADV	_	PronType=Int	_	_	_	_
 9-10	амарди	_	_	_	_	_	_	_	SpaceAfter=No
 9	а	а	PART	_	_	_	_	_	_
