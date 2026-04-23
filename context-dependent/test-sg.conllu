@@ -1136,7 +1136,7 @@
 23	уа	уæвын	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	_	_	_	_
 25	уый	уый	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-26	æцæгæй	ацæг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
+26	æцæгæй	æцæг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 27	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 28	у	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	_	_	_	_
@@ -3938,7 +3938,7 @@
 # sent_id = 220
 # text = Æмæ æцæгæй дæр, абон дæр ын арфæ кæнын, иумæ кусæм, æмæ йæ мæнæ мæ мады хуызæн уарзын.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
-2	æцæгæй	ацæг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
+2	æцæгæй	æцæг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 3	дæр	дæр	PART	_	_	_	_	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	_	_	_	_
 5	абон	абон	ADV	_	_	_	_	_	_
