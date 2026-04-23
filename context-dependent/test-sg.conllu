@@ -1693,7 +1693,7 @@
 9	хызтой	хизын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
 11	æмæ	æмæ	CCONJ	_	_	_	_	_	_
-12	йын	ын	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+12	йын	уый	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 13	фыстæ	фыс	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	_	_	_	_
 15	хъомтæ	хъом	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
