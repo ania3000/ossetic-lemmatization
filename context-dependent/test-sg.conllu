@@ -8346,7 +8346,9 @@
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Йе	йӕ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 5	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
-6	рбацыдимæ	æрбацыд	NOUN	_	Case=Com|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+6-7	рбацыдимæ	_	_	_	_	_	_	_	_
+6	рба	æрба	PART	_	_	_	_	_	_
+6	цыдимæ	цыд	NOUN	_	Aspect=Perf|Case=Com|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 7	адджын	адджын	ADJ	_	_	_	_	_	_
 8	цард	цард	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 9	кæндзысты	кæнын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
@@ -9475,7 +9477,9 @@
 # text = Куы ‘рбацæуы, уæд йæ цæгатæй æрбахæссы мыды къус, æмæ уый байуары мыггаджы, мыггаг уыцы, чындзæхсæвы бон мыггагæй чи вæййы хистæртæй, уыдонæн.
 1	Куы	куы	ADV	_	PronType=Int	_	_	_	_
 2	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
-3	рбацæуы	æрбацæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+3-4	рбацæуы	_	_	_	_	_	_	_	SpaceAfter=No
+3	рба	æрба	PART	_	_	_	_	_	_
+4	цæуы	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	_	_	_	_
 5	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 6	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
