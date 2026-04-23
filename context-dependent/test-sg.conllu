@@ -1705,12 +1705,12 @@
 21	гъе	гъе	INTJ	_	_	_	_	_	_
 22	ныр	ныр	ADV	_	PronType=Dem	_	_	_	_
 23	цал	цал	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-24	фысы	фыс	NOUN	_	Case=Num|Number=Sing	_	_	_	_
+24	фысы	фыс	NOUN	_	Case=Nom|Number=Count	_	_	_	_
 25	дæм	ды	PRON	_	Case=All|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 26	ис	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	_	_	_	_
 28	уал	уал	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-29	боны	бон	NOUN	_	Case=Num|Number=Sing	_	_	_	_
+29	боны	бон	NOUN	_	Case=Nom|Number=Count	_	_	_	_
 30	хъуамæ	хъуамæ	PART	_	_	_	_	_	_
 31	фыййау	фыййау	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 32-33	ацыдаис	_	_	_	_	_	_	_	SpaceAfter=No

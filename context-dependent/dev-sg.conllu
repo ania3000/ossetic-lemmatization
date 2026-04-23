@@ -548,7 +548,7 @@
 4	дам	дам	PART	_	_	_	_	_	_
 5	ныр	ныр	ADV	_	PronType=Dem	_	_	_	_
 6	цал	цал	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-7	азы	аз	NOUN	_	Case=Num|Number=Sing	_	_	_	_
+7	азы	аз	NOUN	_	Case=Nom|Number=Count	_	_	_	_
 8	нал	нал	PART	_	Polarity=Neg	_	_	_	_
 9	и	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
@@ -3394,7 +3394,7 @@
 3	,	,	PUNCT	_	_	_	_	_	_
 4	фæлæ	фæлæ	CCONJ	_	_	_	_	_	_
 5	цал	цал	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-6	боны	бон	NOUN	_	Case=Num|Number=Sing	_	_	_	SpaceAfter=No
+6	боны	бон	NOUN	_	Case=Nom|Number=Count	_	_	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = 187
@@ -4128,7 +4128,7 @@
 4	служить	служить	X	_	_	_	_	_	_
 5	кодтон	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 6	цыппæр	цыппӕр	NUM	_	Case=Nom|NumType=Card|Number=Sing	_	_	_	_
-7	азы	аз	NOUN	_	Case=Num|Number=Count	_	_	_	SpaceAfter=No
+7	азы	аз	NOUN	_	Case=Nom|Number=Count	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
 9	ну	ну	INTJ	_	_	_	_	_	_
 10	гæды	гӕды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
