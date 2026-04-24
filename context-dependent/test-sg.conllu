@@ -4533,7 +4533,7 @@
 16	иу	иу	PART	_	_	_	_	_	_
 17-18	ныззыввытт	_	_	_	_	_	_	_	_
 17	ны	ны	PART	_	_	_	_	_	_
-18	зыввытт	зыввытт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+18	зыввытт	зыгъгъуытт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 19	ластон	ласын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 20	иу	иу	NUM	_	Case=Nom|NumType=Card|Number=Sing	_	_	_	_
 21	фарс	фарс	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
