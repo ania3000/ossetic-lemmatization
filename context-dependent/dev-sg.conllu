@@ -3672,7 +3672,7 @@
 18-20	рбацæйæййæфтой	_	_	_	_	_	_	_	$SpaceAfter=No
 18	рба	æрба	PART	_	_	_	_	_	_
 19	цæй	цæй	PART	_	_	_	_	_	_
-20	йæфтой	йафын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+20	йæфтой	йафын	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	_	_	_	_
 20	гъе	гъе	INTJ	_	_	_	_	_	_
 21	уырдæм	уый	PRON	_	Case=Dir|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
