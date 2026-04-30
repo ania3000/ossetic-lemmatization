@@ -7580,7 +7580,9 @@
 10	ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 11	искуы	искуы	ADV	_	PronType=Ind	_	_	_	_
 12	куы	куы	ADV	_	PronType=Int	_	_	_	_
-13	баззайай	баззайын	VERB	_	Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
+13-14	баззайай	_	_	_	_	_	_	_	SpaceAfter=No
+13	ба	ба	PART	_	_	_	_	_	_
+13	зайай	зайын	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	_	_	_	_
 15	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	_	_	_	_
@@ -8237,7 +8239,7 @@
 
 # sent_id = 507
 # text = Лæгмарæн ныхæстæ дæр – никуы ауæй кодтон, стæй нæ ауæй кæндзынæн.
-1	Лæгмарæн	лӕгмар	ADJ	_	VerbForm=Inf2	_	_	_	_
+1	Лæгмарæн	лӕгмарæн	ADJ	_	VerbForm=Inf2	_	_	_	_
 2	ныхæстæ	ныхас	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 3	дæр	дæр	PART	_	_	_	_	_	_
 4	–	–	PUNCT	_	_	_	_	_	_
@@ -8338,7 +8340,7 @@
 29	,	,	PUNCT	_	_	_	_	_	_
 30-31	фæуæрæхдæр	_	_	_	_	_	_	_	_
 30	фæ	фæ	PART	_	_	_	_	_	_
-31	уæрæхдæр	уæрæх	ADJ	_	Degree=Cmp	_	_	_	_
+31	æрæхдæр	æрæх	ADJ	_	Degree=Cmp	_	_	_	_
 32	уа	уæвын	AUX	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8513,7 +8515,9 @@
 13	уыцы	уыцы	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
 14	хæдзæрттæ	хӕдзар	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 15	гыццылæн	гыццыл	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-16	баззайдзысты	баззайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
+16-17	баззайдзысты	_	_	_	_	_	_	_	SpaceAfter=No
+16	ба	ба	PART	_	_	_	_	_	_
+16	зайдзысты	зайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 526
@@ -8593,7 +8597,7 @@
 5-6	фæхæрам	_	_	_	_	_	_	_	_
 5	фæ	фæ	PART	_	_	_	_	_	_
 6	хæрам	хæрам	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-7	уыдзынæн	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
+7	уыдзынæн	уæвын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
 9	ууыл	уый	PRON	_	Case=Sup|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 10	дæр	дæр	PART	_	_	_	_	_	_
@@ -8917,7 +8921,9 @@
 1	—	—	PUNCT	_	_	_	_	_	_
 2	Уыдон	уыдон	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
 3	куы	куы	ADV	_	PronType=Int	_	_	_	_
-4	баззадаиккой	баззайын	VERB	_	Aspect=Perf|Mood=Irr|Number=Plur|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
+4-5	баззадаиккой	_	_	_	_	_	_	_	SpaceAfter=No
+4	ба	ба	PART	_	_	_	_	_	_
+4	задаиккой	зайын	VERB	_	Aspect=Perf|Mood=Irr|Number=Plur|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 5	…	…	PUNCT	_	_	_	_	_	_
 
 # sent_id = 556
@@ -9425,7 +9431,7 @@
 7	гъе	гъе	INTJ	_	_	_	_	_	_
 8	уым	уый	PRON	_	Case=Ine|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 9	йед	йед	PRON	_	Case=Nom|Number=Sing	_	_	_	_
-10-11	федтон	фенын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+10	федтон	фенын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 11	…	…	PUNCT	_	_	_	_	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	_	_	_	_
 
@@ -9564,7 +9570,7 @@
 
 # sent_id = 597
 # text = Ислам айы къухы куы систа йæ уд, Славиккы къухы.
-1	Ислам	ислам	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Ислам	Ислам	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	айы	ай	PRON	_	Case=Gen|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 3	къухы	къух	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	куы	куы	PART	_	_	_	_	_	_
@@ -9584,7 +9590,7 @@
 2	сывæллонмæ	сывӕллон	NOUN	_	Case=All|Number=Sing	_	_	_	SpaceAfter=No
 3	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
 4	иу	иу	PART	_	_	_	_	_	_
-5	не	не	PART	_	Polarity=Neg	_	_	_	_
+5	не	нæ	PART	_	Polarity=Neg	_	_	_	_
 6-7	суаид	_	_	_	_	_	_	_	SpaceAfter=No
 6	с	с	PART	_	_	_	_	_	_
 7	уаид	уæвын	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -9623,7 +9629,9 @@
 2	ма	ма	PART	_	_	_	_	_	_
 3	дзы	уый	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-5	баззади	баззайын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+5-6	баззади	_	_	_	_	_	_	_	_
+5	ба	ба	PART	_	_	_	_	_	_
+5	зади	зайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 7	–	–	PUNCT	_	_	_	_	_	_
 8	дыууæ	дыууӕ	NUM	_	Case=Nom|NumType=Card|Number=Sing	_	_	_	_
 9	паласы	палас	NOUN	_	Case=Nom|Number=Count	_	_	_	SpaceAfter=No
