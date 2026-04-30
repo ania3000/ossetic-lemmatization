@@ -92,7 +92,7 @@
 4	æвзагæй	ӕвзаг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 5	дзурын	дзурын	VERB	_	VerbForm=Inf	_	_	_	_
 6	сæм	уыдон	PRON	_	Case=All|Number=Plur|Person=3|PronType=Prs	_	_	_	_
-7	байдыдта	байдайын,идайун	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+7	байдыдта	байдайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 8
@@ -185,7 +185,7 @@
 1	Алдатова	Алдатова	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	_	_	_	_
 3-4	Куыннæ	_	_	_	_	_	_	_	_
-3	Куы	куы	ADV	_	PronType=Int	_	_	_	_
+3	Куын	куы	ADV	_	PronType=Int	_	_	_	_
 4	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 5	нæм	мах	PRON	_	Case=All|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 6	вæййы	вæййын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -430,7 +430,7 @@
 25	скъола	скъола	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 26	чи	чи	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 27-28	фæцис	_	_	_	_	_	_	_	SpaceAfter=No
-27	фæ	фæ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+27	фæ	фæ	PART	_	_	_	_	_	_
 28	ис	уæвын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	_	_	_	_
 30	фæстæмæ	фæстæ	NOUN	_	Case=All|Number=Sing	_	_	_	_
@@ -481,9 +481,7 @@
 12	афтæ	афтӕ	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	SpaceAfter=No
 13	:	:	PUNCT	_	_	_	_	_	_
 14	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-15-16	райдайæн	_	_	_	_	_	_	_	_
-15	ра	ра	PART	_	_	_	_	_	_
-16	йдайæн	идайæн	NOUN	_	Aspect=Perf|Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
+15	райдайæн	райдайæн	NOUN	_	Aspect=Perf|Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 17	о	о	INTJ	_	_	_	_	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	_	_	_	_
 19	фæлæ	фæлæ	CCONJ	_	_	_	_	_	_
@@ -717,8 +715,8 @@
 6	Мæдиимæ	Мæди	NPROP	_	Case=Com|Number=Sing	_	_	_	_
 7-8	базонгæ	_	_	_	_	_	_	_	_
 7	ба	ба	PART	_	_	_	_	_	_
-8	зонгæ	зонын	VERB	_	VerbForm=Conv	_	_	_	_
-9	у	уæвын	AUX	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
+8	зонгæ	зонын	VERB	_	Aspect=Perf|VerbForm=Conv	_	_	_	_
+9	у	уæвын	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 43
@@ -813,7 +811,7 @@
 6	æгъдау	ӕгъдау	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7-8	айс	_	_	_	_	_	_	_	SpaceAfter=No
 7	а	а	PART	_	_	_	_	_	_
-8	йс	исын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
+8	ис	исын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 49
@@ -1224,7 +1222,7 @@
 3	гауызы	гауыз	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	хуызæн	хуызæн	ADP	_	_	_	_	_	_
 5	алы	алы	DET	_	PronType=Tot	_	_	_	_
-6	адджинæгтæй	адджинӕг	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
+6	адджинæгтæй	адджинаг	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
 7	конд	конд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1380,7 +1378,7 @@
 5	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 6	чъиритæ	чъири	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 7	хæссын	хæссын	VERB	_	VerbForm=Inf	_	_	_	_
-8	байдыдтон	байдайын,идайун	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+8	байдыдтон	байдайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
 11	куы	куы	ADV	_	PronType=Int	_	_	_	SpaceAfter=No
 12	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
@@ -1561,7 +1559,7 @@
 16	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 17	ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 18	цæрын	цæрын	VERB	_	VerbForm=Inf	_	_	_	_
-19	райдыдтам	райдайын,идайун	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+19	райдыдтам	райдайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 87
@@ -1603,7 +1601,9 @@
 3	Махæн	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 4	æхсæв	æхсæв	ADV	_	_	_	_	_	_
 5	дæр	дæр	PART	_	_	_	_	_	_
-6	баззайынц	баззайын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+6-7	баззайынц	_	_	_	_	_	_	_	_
+6	ба	ба	PART	_	_	_	_	_	_
+6	зайынц	зайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 7	гомæй	гом	NOUN	_	Case=Abl|Number=Sing	_	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1629,7 +1629,7 @@
 # text = Мадина: Мæскуыйаг у.
 1	Мадина	Мадина	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	_	_	_	_
-3	Мæскуыйаг	Мæскуыйаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	Мæскуыйаг	мæскуыйаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	у	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1675,7 +1675,7 @@
 # sent_id = 94
 # text = Æмæ байдыдтой зилын, цæуын, æмæ сæ ничи бауагъта, ничи сæ уагъта йер æмæ цыдысты, цыдысты, цыдысты, æмæ хъæуы кæрон уыди иу мæгуыр хæдзар.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
-2	байдыдтой	байдайын,идайун	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+2	байдыдтой	байдайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	зилын	зилын	VERB	_	VerbForm=Inf	_	_	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	_	_	_	_
 6	цæуын	цæуын	VERB	_	VerbForm=Inf	_	_	_	SpaceAfter=No
@@ -1721,7 +1721,7 @@
 10	дæр	дæр	PART	_	_	_	_	_	_
 11-12	æрымысыдтæн	_	_	_	_	_	_	_	$SpaceAfter=No
 11	æр	æр	PART	_	_	_	_	_	_
-12	ымысыдтæн	мысын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+12	мысыдтæн	мысын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 96
