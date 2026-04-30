@@ -7072,7 +7072,9 @@
 2	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 3	дзы	уый	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	бирæ	бирӕ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-5	баззад	баззайын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+5-6	баззад	_	_	_	_	_	_	_	_
+5	ба	ба	PART	_	_	_	_	_	_
+5	зад	зайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 6	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 7	дæр	дæр	PART	_	_	_	_	_	SpaceAfter=No
 8	!	!	PUNCT	_	_	_	_	_	_
