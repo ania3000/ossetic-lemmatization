@@ -2060,7 +2060,7 @@
 36	цыдысты	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 37	,	,	PUNCT	_	_	_	_	_	_
 38-39	цæуыннæ	_	_	_	_	_	_	_	_
-38	цæуын	цы	PRON	_	Case=Sup|Number=Sing|PronType=Int	_	_	_	_
+38	цæуыл	цы	PRON	_	Case=Sup|Number=Sing|PronType=Int	_	_	_	_
 39	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 40-41	ацæуыс	_	_	_	_	_	_	_	SpaceAfter=No
 42	а	а	PART	_	_	_	_	_	_
