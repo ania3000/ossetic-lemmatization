@@ -1426,7 +1426,9 @@
 2	:	:	PUNCT	_	_	_	_	_	_
 3	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 4	иномаркæйæ	иномаркæ	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
-5	баззадтæ	баззайын	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+5-6	баззадтæ	_	_	_	_	_	_	_	SpaceAfter=No
+5	ба	ба	PART	_	_	_	_	_	_
+5	задтæ	зайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 88
@@ -6336,7 +6338,7 @@
 6	иууылдæр	иууылдæр	DET	_	PronType=Tot	_	_	_	_
 7	сты	уæвын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 8	Валериккы	Валерикк	NPROP	_	Case=Gen|Number=Sing	_	_	_	_
-9	аххæстæ	аххæс	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
+9	аххæстæ	аххос	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
 11	уый	уый	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	_	_	_	_
@@ -7787,7 +7789,7 @@
 2	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 3	ме	мæ	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 4	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
-5	вдисæнæн	æвдисӕн	NOUN	_	Case=Dat|Number=Sing|VerbForm=Inf2	_	_	_	_
+5	вдисæнæн	æвдисӕнæн	NOUN	_	Case=Dat|Number=Sing|VerbForm=Inf2	_	_	_	_
 6	дæр	дæр	PART	_	_	_	_	_	_
 7	афтæ	афтӕ	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
 8	загъта	зæгъын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
