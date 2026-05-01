@@ -8342,7 +8342,7 @@
 29	,	,	PUNCT	_	_	_	_	_	_
 30-31	фæуæрæхдæр	_	_	_	_	_	_	_	_
 30	фæ	фæ	PART	_	_	_	_	_	_
-31	æрæхдæр	æрæх	ADJ	_	Degree=Cmp	_	_	_	_
+31	уæрæхдæр	уæрæх	ADJ	_	Degree=Cmp	_	_	_	_
 32	уа	уæвын	AUX	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8915,7 +8915,7 @@
 2	Кæмæй	чи	PRON	_	Case=Abl|Number=Sing|PronType=Int	_	_	_	_
 3	у	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 4	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-5	мыккаг	мыккаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+5	мыккаг	мыггаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = 555
