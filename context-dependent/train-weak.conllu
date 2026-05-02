@@ -19474,7 +19474,7 @@
 28	тедтæ	тед	PRON	_	Case=Nom|Number=Plur	_	_	_	_
 29-30	байсты	_	_	_	_	_	_	_	SpaceAfter=No
 29	ба	ба	PART	_	_	_	_	_	_
-30	исты	исын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+30	сты	уæвын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	_	_	_	_
 32	æмæ	æмæ	CCONJ	_	_	_	_	_	SpaceAfter=No
 33	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
@@ -26206,7 +26206,7 @@
 # sent_id = 1513
 # text = Кочиева Манана: Инди, цу-ма фен персиктæ.
 1	Кочиева	Кочиева	NPROP	_	Case=Nom|Number=Sing	_	_	_	_
-2	Манана	Манан	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+2	Манана	Манана	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Инди	Инди	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	_	_	_	_
@@ -26286,7 +26286,7 @@
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2	йам	уый	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 3	хъазахъхъагтæ	хъазахъхъаг	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-4	чидæриддæр	цыдӕриддӕр	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+4	чидæриддæр	чидӕриддӕр	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
 5	и	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
 7	гъе	гъе	INTJ	_	_	_	_	_	_
@@ -28330,7 +28330,7 @@
 6	исты	исты	DET	_	PronType=Ind	_	_	_	_
 7-8	æрхъуыды	_	_	_	_	_	_	_	_
 7	æр	æр	PART	_	_	_	_	_	_
-8	хъуыды	ӕрхъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+8	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	кæ	кæнын	AUX	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	_	_	_	_
 
@@ -28477,7 +28477,7 @@
 2	ус	ус	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	у	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	_	_	_	_
-5	ничи	ницы	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
+5	ничи	ничи	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
 6	йын	уый	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	ис	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
@@ -31316,7 +31316,7 @@
 
 # sent_id = 1797
 # text = Светлана Умаровна: Куыд нæ бакусдзæн?!
-1	Светлана	Cветлана	NPROP	_	Case=Nom|Number=Sing	_	_	_	_
+1	Светлана	Светлана	NPROP	_	Case=Nom|Number=Sing	_	_	_	_
 2	Умаровна	Умаровна	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Куыд	куыд	ADV	_	PronType=Int	_	_	_	_
@@ -34792,7 +34792,7 @@
 31	,	,	PUNCT	_	_	_	_	_	_
 32	тынг	тынг	ADV	_	_	_	_	_	_
 33	бирæ	бирæ	ADJ	_	_	_	_	_	_
-34	фарстатæ	фарст	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+34	фарстатæ	фарста	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 35	дзы	уый	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 36	ис	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 37	,	,	PUNCT	_	_	_	_	_	_

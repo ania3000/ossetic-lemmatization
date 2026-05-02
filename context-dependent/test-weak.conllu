@@ -3400,7 +3400,7 @@
 7	сæ	сӕ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 8-9	æрхъуыды	_	_	_	_	_	_	_	_
 8	æр	æр	PART	_	_	_	_	_	_
-9	хъуыды	ӕрхъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+9	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	кодтай	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	_	_	_	_
 12	нæ	нæ	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
