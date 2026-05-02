@@ -37211,7 +37211,9 @@
 5	цыдыстæм	цæуын	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
 7	уже	уже	ADV	_	_	_	_	_	_
-8	справкæтетæ	справкæ	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+8-9	справкæтетæ	_	_	_	_	_	_	_	_
+8	справкæ	справкæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+8	тетæ	тед	PRON	_	Case=Nom|Number=Plur	_	_	_	_
 9-10	райста	_	_	_	_	_	_	_	SpaceAfter=No
 9	ра	ра	PART	_	_	_	_	_	_
 10	иста	исын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -44011,7 +44013,7 @@
 26	азы	аз	NOUN	_	Case=Nom|Number=Count	_	_	_	_
 27	йæм	уый	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 28-29	фенхъæлмæ	_	_	_	_	_	_	_	_
-28	фе	фе	PART	_	_	_	_	_	_
+28	фе	фæ	PART	_	_	_	_	_	_
 29	æнхъæлмæ	æнхъæл	NOUN	_	Case=All|Number=Sing	_	_	_	_
 30	кастыстæм	кæсын	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	_	_	_	_
