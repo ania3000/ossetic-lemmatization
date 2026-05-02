@@ -563,15 +563,15 @@
 1	Йер	йер	ADV	_	PronType=Dem	_	_	_	_
 2	гуыргæ	гуырын	VERB	_	VerbForm=Conv	_	_	_	_
 3	дæр	дæр	PART	_	_	_	_	_	_
-4	ам	ам	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No
+4	ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	_	_	_	_
 6	цæргæ	цæрын	VERB	_	VerbForm=Conv	_	_	_	_
 7	дæр	дæр	PART	_	_	_	_	_	_
-8	ам	ам	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No
+8	ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	_	_	_	_
 10	скъола	скъола	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	дæр	дæр	PART	_	_	_	_	_	_
-12	ам	ам	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
+12	ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 13	–	–	PUNCT	_	_	_	_	_	_
 14	иууылдæр	иууылдӕр	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	_	_	_	_
@@ -1586,7 +1586,7 @@
 # text = Мадина: Ам уæм сыхы куывдтæ йедтæ нæ вæййы?
 1	Мадина	Мадина	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	_	_	_	_
-3	Ам	ам	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
+3	Ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 4	уæм	сымах	PRON	_	Case=All|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 5	сыхы	сых	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 6	куывдтæ	куывд	NOUN	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -3824,7 +3824,7 @@
 
 # sent_id = 212
 # text = Ам фæсивæд хицæнæй фæкафынц, хицæнæй фæбадынц.
-1	Ам	ам	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
+1	Ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 2	фæсивæд	фӕсивӕд	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	хицæнæй	хицæн	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 4-5	фæкафынц	_	_	_	_	_	_	_	SpaceAfter=No
@@ -5658,7 +5658,7 @@
 22	хус	хус	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 23	кæнынц	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	_	_	_	_
-25	ам	ам	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
+25	ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 26	сырость	сырость	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 27	у	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	_	_	_	_
@@ -6898,7 +6898,7 @@
 7	,	,	PUNCT	_	_	_	_	_	_
 8	мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	_
 9	дын	ды	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	_	_	_	_
-10	ам	ам	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
+10	ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 11	æнцондæр	ӕнцон	ADJ	_	Degree=Cmp	_	_	_	_
 12	уыдзæн	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	_	_	_	_
