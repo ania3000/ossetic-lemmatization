@@ -25570,7 +25570,7 @@
 1	Гыццыл	гыццыл	ADV	_	_	_	_	_	_
 2	дзы	уый	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	исчи	исчи	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
-4	над	найын^нæмын	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+4	над	нæмын	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 5	куы	куы	ADV	_	PronType=Int	_	_	_	_
 6-7	фæвæййы	_	_	_	_	_	_	_	SpaceAfter=No
 6	фæ	фæ	PART	_	_	_	_	_	_
@@ -25801,7 +25801,7 @@
 3	дæр	дæр	PART	_	_	_	_	_	_
 4-5	æрхъуыды	_	_	_	_	_	_	_	_
 4	æр	æр	PART	_	_	_	_	_	_
-5	хъуыды	ӕрхъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+5	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	кæнын	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	_	_	_	_
 8	мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	_
