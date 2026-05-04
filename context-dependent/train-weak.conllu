@@ -29517,7 +29517,7 @@
 8	ницы	ницы	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
 9-10	бахъыгдардта	_	_	_	_	_	_	_	SpaceAfter=No
 9	ба	ба	PART	_	_	_	_	_	_
-10	хъыгдардта	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+10	хъыгдардта	хъыгдарын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 1693
@@ -29726,7 +29726,7 @@
 6	уыдаиккой	уæвын	AUX	_	Mood=Irr|Number=Plur|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	_	_	_	_
 8	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-9	хæрзсæфт	сафын^сæфын	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+9	хæрзсæфт	хæрзсæфын	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 10-11	фæкодтаиккой	_	_	_	_	_	_	_	SpaceAfter=No
 10	фæ	фæ	PART	_	_	_	_	_	_
 11	кодтаиккой	кæнын	AUX	_	Aspect=Perf|Mood=Irr|Number=Plur|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -43496,7 +43496,7 @@
 9	уым	уый	PRON	_	Case=Ine|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 10-11	фæрасурбасур	_	_	_	_	_	_	_	_
 10	фæ	фæ	PART	_	_	_	_	_	_
-11	расурбасур	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+11	расурбасур	расурбасур	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 12	кодта	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	_	_	_	_
 
@@ -44791,7 +44791,7 @@
 17	бынмæ	бын	NOUN	_	Case=All|Number=Sing	_	_	_	_
 18-19	æрхаудысты	_	_	_	_	_	_	_	SpaceAfter=No
 18	æр	æр	PART	_	_	_	_	_	_
-19	хаудысты	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+19	хаудысты	хауын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2549
@@ -53012,7 +53012,7 @@
 
 # sent_id = 3021
 # text = Фатима: Бамбæрстай ды?
-1	Фатима	_	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+1	Фатима	Фатима	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	_	_	_	_
 3-4	Бамбæрстай	_	_	_	_	_	_	_	_
 3	ба	ба	PART	_	_	_	_	_	_
@@ -53103,7 +53103,7 @@
 # sent_id = 3026
 # text = Æмæ йæ куы федта, туджджыны, уæд æй æхсынмæ хъавыд.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
-2	йæ	йӕ уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	куы	куы	ADV	_	PronType=Int	_	_	_	_
 4	федта	фенын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
@@ -53355,7 +53355,7 @@
 15	уым	уый	PRON	_	Case=Ine|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 16-17	баззадаиккой	_	_	_	_	_	_	_	SpaceAfter=No
 16	ба	ба	PART	_	_	_	_	_	_
-17	ззадаиккой	_	VERB	_	Aspect=Perf|Mood=Irr|Number=Plur|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
+17	задаиккой	зайын	VERB	_	Aspect=Perf|Mood=Irr|Number=Plur|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	_	_	_	_
 19	уым	уый	PRON	_	Case=Ine|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 20	дыккаг	дыккаг	ADJ	_	NumType=Ord	_	_	_	_
@@ -56464,7 +56464,7 @@
 # text = Фæбадысты иумæ, фæныхæстæ кодтой.
 1-2	Фæбадысты	_	_	_	_	_	_	_	_
 1	фæ	фæ	PART	_	_	_	_	_	_
-2	бадысты	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+2	бадысты	бадын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	иумæ	иумæ	ADV	_	_	_	_	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	_	_	_	_
 5-6	фæныхæстæ	_	_	_	_	_	_	_	_
@@ -58886,7 +58886,7 @@
 26	ницæмæй	ницы	PRON	_	Case=Abl|Number=Sing|PronType=Neg	_	_	_	_
 27-28	фæрæдийдзæн	_	_	_	_	_	_	_	SpaceAfter=No
 27	фæ	фæ	PART	_	_	_	_	_	_
-28	рæдийдзæн	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
+28	рæдийдзæн	рæдийын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 3350
