@@ -105,7 +105,7 @@
 6	цардысты	цæрын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	_	_	_	_
 8	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
-9	мæ	мæ	CCONJ	_	_	_	_	_	SpaceAfter=No
+9	мæ	æмæ	CCONJ	_	_	_	_	_	SpaceAfter=No
 10	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
 11	иу	иу	PART	_	_	_	_	_	_
 12	мæн	æз	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -1399,7 +1399,7 @@
 3	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 4	кæцыдæр	кæцыдæр	DET	_	PronType=Ind	_	_	_	_
 5	курсы	курс	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
-6	мæ	мæ	CCONJ	_	_	_	_	_	_
+6	мæ	æмæ	CCONJ	_	_	_	_	_	_
 7	йын	уый	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	гъе	гъе	INTJ	_	_	_	_	_	_
 9	уыцы	уыцы	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
@@ -3434,7 +3434,7 @@
 
 # sent_id = 192
 # text = Мæ нын сæ иумæ бафидар кæна, науæд ын уæйгæнæн нæ уыди.
-1	Мæ	мæ	CCONJ	_	_	_	_	_	_
+1	Мæ	æмæ	CCONJ	_	_	_	_	_	_
 2	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3	сæ	уыдон	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	иумæ	иумæ	ADV	_	_	_	_	_	_
@@ -7109,7 +7109,7 @@
 22	хæсс	хæссын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	_	_	_	_
 24	æмæ	æмæ	CCONJ	_	_	_	_	_	_
-25	мæ	мæ	CCONJ	_	_	_	_	_	_
+25	мæ	æмæ	CCONJ	_	_	_	_	_	_
 26	дам	дам	PART	_	_	_	_	_	_
 27	кæд	кæд	SCONJ	_	_	_	_	_	_
 28	куы	куы	ADV	_	PronType=Int	_	_	_	_

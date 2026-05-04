@@ -5324,7 +5324,7 @@
 
 # sent_id = 295
 # text = Мæ уыдонæн дæр хæдзæрттæ радтон.
-1	Мæ	мæ	CCONJ	_	_	_	_	_	_
+1	Мæ	æмæ	CCONJ	_	_	_	_	_	_
 2	уыдонæн	уыдон	PRON	_	Case=Dat|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
 3	дæр	дæр	PART	_	_	_	_	_	_
 4	хæдзæрттæ	хӕдзар	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -5593,7 +5593,7 @@
 
 # sent_id = 310
 # text = Мæ дам æз дæ чызг дæн.
-1	Мæ	мæ	CCONJ	_	_	_	_	_	_
+1	Мæ	æмæ	CCONJ	_	_	_	_	_	_
 2	дам	дам	PART	_	_	_	_	_	_
 3	æз	ӕз	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 4	дæ	дæ	DET	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
@@ -6427,7 +6427,7 @@
 
 # sent_id = 352
 # text = Мæ йын чызг загъта:
-1	Мæ	мæ	CCONJ	_	_	_	_	_	_
+1	Мæ	æмæ	CCONJ	_	_	_	_	_	_
 2	йын	уый	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	чызг	чызг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	загъта	зæгъын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -7179,7 +7179,7 @@
 
 # sent_id = 392
 # text = Мæ лæппу хъазты кæронмæ бацыди.
-1	Мæ	мæ	CCONJ	_	_	_	_	_	_
+1	Мæ	æмæ	CCONJ	_	_	_	_	_	_
 2	лæппу	лӕппу	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	хъазты	хъаз	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	кæронмæ	кӕрон	NOUN	_	Case=All|Number=Sing	_	_	_	_
@@ -7190,7 +7190,7 @@
 
 # sent_id = 393
 # text = Мæ уым баззадысты цæргæйæ.
-1	Мæ	мæ	CCONJ	_	_	_	_	_	_
+1	Мæ	æмæ	CCONJ	_	_	_	_	_	_
 2	уым	уый	PRON	_	Case=Ine|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 3-4	баззадысты	_	_	_	_	_	_	_	_
 3	ба	ба	PART	_	_	_	_	_	_
@@ -8539,7 +8539,7 @@
 
 # sent_id = 462
 # text = Мæ йыл æндæр лæппу сдзырдта быдырæй, æмæ йæ нæ уарзта, нæ хъуыдис.
-1	Мæ	мæ	CCONJ	_	_	_	_	_	_
+1	Мæ	æмæ	CCONJ	_	_	_	_	_	_
 2	йыл	уый	PRON	_	Case=Sup|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	æндæр	æндæр	ADJ	_	_	_	_	_	_
 4	лæппу	лӕппу	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
