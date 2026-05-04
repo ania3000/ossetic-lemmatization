@@ -53703,7 +53703,7 @@
 13-14	фембырд	_	_	_	_	_	_	_	_
 13	фе	фæ	PART	_	_	_	_	_	_
 14	мбырд	æмбырд	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-15	кæнынц	кæнын	AUX	_	Aspcet=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+15	кæнынц	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 16	мысайнæгтæ	мысайнаг	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	_	_	_	_
 18	стæй	стæй	ADV	_	_	_	_	_	_
@@ -55802,7 +55802,7 @@
 31	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 32	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 33-34	рцауыгътой	_	_	_	_	_	_	_	SpaceAfter=No
-33	р	æр	VERB	_	_	_	_	_	_
+33	р	æр	PART	_	_	_	_	_	_
 33	ауыгътой	ауындзын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 34	.	.	PUNCT	_	_	_	_	_	_
 
@@ -57063,7 +57063,7 @@
 # sent_id = 3252
 # text = Уæд рацæй-рабон æмæ стыр къæвда рацыди.
 1	Уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-2	рацæй-рабон	ADV	_	_	_	_	_	_	_
+2	рацæй-рабон	рацæй-рабон	ADV	_	_	_	_	_	_
 4	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 5	стыр	стыр	ADJ	_	_	_	_	_	_
 6	къæвда	къӕвда	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -62035,7 +62035,7 @@
 
 # sent_id = 3501
 # text = Крупскаяйы тыххæй.
-1	Крупскаяйы	?	NPROP	_	Case=Gen|Number=Sing	_	_	_	_
+1	Крупскаяйы	Крупская	NPROP	_	Case=Gen|Number=Sing	_	_	_	_
 2	тыххæй	тыххæй	ADP	_	_	_	_	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -62043,11 +62043,11 @@
 # text = То ли ахуыргæнджыты хъæуы æндæрхуызон относиться сывæллæттæм, увлечь…
 1	То	то	X	_	_	_	_	_	_
 2	ли	ли	X	_	_	_	_	_	_
-3	ахуыргæнджыты	ахуыргӕнджы	NOUN	_	Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+3	ахуыргæнджыты	ахуыргӕнӕг	NOUN	_	Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 4	хъæуы	хъæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 5	æндæрхуызон	æндæрхуызон	ADV	_	_	_	_	_	_
 6	относиться	относиться	X	_	_	_	_	_	_
-7	сывæллæттæм	сывӕллӕ	NOUN	_	Case=All|Number=Plur	_	_	_	SpaceAfter=No
+7	сывæллæттæм	сывӕллон	NOUN	_	Case=All|Number=Plur	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
 9	увлечь	увлечь	X	_	_	_	_	_	SpaceAfter=No
 10	…	…	PUNCT	_	_	_	_	_	_
