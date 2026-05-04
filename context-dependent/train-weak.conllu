@@ -57047,14 +57047,14 @@
 1	Уыдонæй	уыдон	PRON	_	Case=Abl|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
 2	дæр	дæр	PART	_	_	_	_	_	_
 3	иу	иу	NUM	_	Case=Nom|NumType=Card|Number=Sing	_	_	_	_
-4	цалдæр	цал / цалдӕр	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+4	цалдæр	цалдӕр	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
 5-6	амардтой	_	_	_	_	_	_	_	SpaceAfter=No
 5	а	а	PART	_	_	_	_	_	_
 6	мардтой	марын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	_	_	_	_
 8	ай	ай	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 9	дæр	дæр	PART	_	_	_	_	_	_
-10	сæ	уыдон / сӕ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
+10	сæ	уыдон	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 11	йæхæдæг	йӕхӕдӕг	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 12	дæр	дæр	PART	_	_	_	_	_	_
 13	мардта	марын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -57063,9 +57063,7 @@
 # sent_id = 3252
 # text = Уæд рацæй-рабон æмæ стыр къæвда рацыди.
 1	Уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-2-3	рацæй-рабон	_	_	_	_	_	_	_	_
-2	ра	ра	PART	_	_	_	_	_	_
-3	цæй-рабон	?	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	рацæй-рабон	ADV	_	_	_	_	_	_	_
 4	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 5	стыр	стыр	ADJ	_	_	_	_	_	_
 6	къæвда	къӕвда	NOUN	_	Case=Nom|Number=Sing	_	_	_	_

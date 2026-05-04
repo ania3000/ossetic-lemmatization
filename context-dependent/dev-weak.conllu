@@ -7016,7 +7016,7 @@
 7	дзы	уый	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
 9	чи	чи	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-10	мын	cæ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	_
+10	мын	æз	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 11-12	феххуыс	_	_	_	_	_	_	_	_
 11	фе	фæ	PART	_	_	_	_	_	_
 12	æххуыс	æххуыс	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -7971,13 +7971,13 @@
 4	Æз	ӕз	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 5	–	–	PUNCT	_	_	_	_	_	_
 6	мæхи	мӕхӕдӕг	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
-7	хабæрттæ	хабӕр	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
+7	хабæрттæ	хабар	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
 9	ды	ды	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 10	та	та	PART	_	_	_	_	_	_
 11	–	–	PUNCT	_	_	_	_	_	_
 12	дæхи	дӕхӕдӕг	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	_	_	_	_
-13	хабæрттæ	хабӕр	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
+13	хабæрттæ	хабар	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 433
@@ -8487,7 +8487,7 @@
 8	йер	йер	ADV	_	PronType=Dem	_	_	_	_
 9	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 10	дæр	дæр	PART	_	_	_	_	_	_
-11	зонгæ	онгӕ	ADJ	_	VerbForm=Conv	_	_	_	_
+11	зонгæ	зонгӕ	ADJ	_	VerbForm=Conv	_	_	_	_
 12	бынат	бынат	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	у	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	_	_	_	_
@@ -8811,7 +8811,7 @@
 15	фæ	фæ	PART	_	_	_	_	_	_
 16	и	уæвын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	_	_	_	_
-17	Сусæны	Cусӕн	NPROP	_	Case=Gen|Number=Sing	_	_	_	_
+17	Сусæны	Сусӕн	NPROP	_	Case=Gen|Number=Sing	_	_	_	_
 18	мæй	мӕй	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 19-20	фæци	_	_	_	_	_	_	_	SpaceAfter=No
 20	фæ	фæ	PART	_	_	_	_	_	_
@@ -9541,7 +9541,7 @@
 27	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 28-29	фæуы	_	_	_	_	_	_	_	_
 28	фæ	фæ	PART	_	_	_	_	_	_
-29	уы	уæвын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
+29	у	уæвын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
 30	бæхæй	бӕх	NOUN	_	Case=Abl|Number=Sing	_	_	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	_	_	_	_
 32	хъугæй	хъуг	NOUN	_	Case=Abl|Number=Sing	_	_	_	SpaceAfter=No
