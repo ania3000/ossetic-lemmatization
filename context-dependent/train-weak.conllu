@@ -17871,7 +17871,7 @@
 7	æгъдау	ӕгъдау	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	йед	йед	PRON	_	Case=Nom|Number=Sing	_	_	_	_
 9	кæнын	кæнын	AUX	_	VerbForm=Inf	_	_	_	_
-10	байдыдта	байдайын,идайун	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+10	байдыдта	байдайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 11	…	…	PUNCT	_	_	_	_	_	_
 
 # sent_id = 1066
