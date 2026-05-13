@@ -62458,7 +62458,7 @@
 22	,	,	PUNCT	_	_	_	_	_	_
 23	метр	метр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 24	æмæ	æмæ	CCONJ	_	_	_	_	_	_
-25	рдæгы	рдӕг	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+25	рдæгы	ӕрдӕг	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 26	куыд	куыд	ADV	_	PronType=Int	_	_	_	_
 27	уыдзæни	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	_	_	_	_
@@ -62708,7 +62708,7 @@
 2-3	фæдарæм	_	_	_	_	_	_	_	_
 2	фæ	фæ	PART	_	_	_	_	_	_
 3	дарæм	дарын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
-4	цæрæнбонты	цӕрӕнбон	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
+4	цæрæнбонты	цӕрӕнбон	NOUN	_	Case=Ine|Number=Plur	_	_	_	_
 5	нæ	нæ	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 6	зæрдыл	зӕрдæ	NOUN	_	Case=Sup|Number=Sing	_	_	_	_
 7	скъолайы	скъола	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -63553,7 +63553,7 @@
 
 # sent_id = 3589
 # text = Арсен, адæймаг куы дзура, адæймаг, æмæ йæм хъусæг куы уа, хъусæг, уæд уымæй хуыздæр ницы и.
-1	Арсен	арсен	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+1	Арсен	Арсен	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	_	_	_	_
 3	адæймаг	адӕймаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	куы	куы	ADV	_	PronType=Int	_	_	_	_
@@ -63580,7 +63580,7 @@
 # text = Алдатова: Хæдзаронтæ.
 1	Алдатова	Алдатова	NPROP	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	_	_	_	_
-3	Хæдзаронтæ	хæдзæрон	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
+3	Хæдзаронтæ	хæдзарон	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 3591
@@ -63712,7 +63712,7 @@
 8	мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	_
 9	рагон	рагон	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
-11	фысджытæй	фысæг	NOUN	_	Case=Abl|Number=Plur	_	_	_	SpaceAfter=No
+11	фысджытæй	фысæг	NOUN	_	Case=Abl|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	_	_	_	_
 13	ома	ома	SCONJ	_	_	_	_	_	_
 14	рагон	рагон	ADJ	_	_	_	_	_	_
