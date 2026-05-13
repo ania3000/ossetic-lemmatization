@@ -2702,7 +2702,7 @@
 10	лæг	лӕг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11-12	байгом	_	_	_	_	_	_	_	_
 11	ба	ба	PART	_	_	_	_	_	_
-12	йгом	гом	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+12	гом	гом	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	кæны	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 14	Алардыйæн	Аларды	NPROP	_	Case=Dat|Number=Sing	_	_	_	_
 15	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
