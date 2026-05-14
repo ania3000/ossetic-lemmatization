@@ -27174,7 +27174,7 @@
 7	дын	ды	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 8-9	фембæлд	_	_	_	_	_	_	_	_
 8	фе	фæ	PART	_	_	_	_	_	_
-9	æмбæлд	æмбæлын	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_
+9	æмбæлд	æмбæлын	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 10	куы	куы	ADV	_	PronType=Int	_	_	_	_
 11	уаид	уæвын	AUX	_	Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	_	_	_	_
