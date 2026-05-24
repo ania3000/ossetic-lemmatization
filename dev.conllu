@@ -1308,7 +1308,7 @@
 
 # sent_id = 72
 # genre_id = expedition
-# text = Гъе æмæ, дам-иу сæхимæ мæнæ ахæм гыццыл гуыбор куы скодтаид, гъе уæд дæр, дам, дзы йæ бинонтæ… афтæ, дам, ыл цард ныккалди, бæркад, дам, æм æрцыди, гъе ахæм гыццыл гуыборæй дæр, дам….
+# text = Гъе æмæ, дам-иу сæхимæ мæнæ ахæм гыццыл гуыбор куы скодтаид, гъе уæддæр, дам, дзы йæ бинонтæ… афтæ, дам, ыл цард ныккалди, бæркад, дам, æм æрцыди, гъе ахæм гыццыл гуыборæй дæр, дам….
 1	Гъе	гъе	INTJ	_	_	_	_	_	_
 2	æмæ	æмæ	CCONJ	_	_	_	_	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	_	_	_	_
@@ -1326,6 +1326,7 @@
 14	кодтаид	кæнын	VERB	_	Aspect=Perf|Mood=Irr|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	_	_	_	_
 16	гъе	гъе	INTJ	_	_	_	_	_	_
+17-18	уæддæр	_	_	_	_	_	_	_	_
 17	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 18	дæр	дæр	PART	_	_	_	_	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	_	_	_	_
@@ -1469,7 +1470,7 @@
 
 # sent_id = 80
 # genre_id = expedition
-# text = Фæстæмæ ма сдзур, цы дын, чи дын цу ма загъта, фæстæмæ ма сдзур, дæ бинонтæ дын исты амонынц, афтæ ма зæгъ, дæ дзыхæй афтæ ма сдзур, мæхæдæг æй зонын, зæгъгæ.
+# text = Фæстæмæ ма сдзур, цы дын, чи дын цума загъта, фæстæмæ ма сдзур, дæ бинонтæ дын исты амонынц, афтæ ма зæгъ, дæ дзыхæй афтæ ма сдзур, мæхæдæг æй зонын, зæгъгæ.
 1	Фæстæмæ	фæстæ	NOUN	_	Case=All|Number=Sing	_	_	_	_
 2	ма	ма	PART	_	Polarity=Neg	_	_	_	_
 3-4	сдзур	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1481,6 +1482,7 @@
 8	,	,	PUNCT	_	_	_	_	_	_
 9	чи	чи	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 10	дын	ды	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	_	_	_	_
+11-12	цума	_	_	_	_	_	_	_	_
 11	цу	цæуын	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
 12	ма	ма	PART	_	_	_	_	_	_
 13	загъта	зæгъын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -1552,7 +1554,7 @@
 
 # sent_id = 82
 # genre_id = expedition
-# text = Æмæ фæлуæрстой, фæлæ фæрдыг уымæ гæсгæ уæд дæр….
+# text = Æмæ фæлуæрстой, фæлæ фæрдыг уымæ гæсгæ уæддæр….
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2-3	фæлуæрстой	_	_	_	_	_	_	_	SpaceAfter=No
 2	фæ	фæ	PART	_	_	_	_	_	_
@@ -1562,6 +1564,7 @@
 6	фæрдыг	фӕрдыг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	уымæ	уый	PRON	_	Case=All|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 8	гæсгæ	гæсгæ	ADP	_	_	_	_	_	_
+9-10	уæддæр	_	_	_	_	_	_	_	_
 9	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 10	дæр	дæр	PART	_	_	_	_	_	SpaceAfter=No
 11	…	…	PUNCT	_	_	_	_	_	SpaceAfter=No
@@ -3072,8 +3075,9 @@
 
 # sent_id = 160
 # genre_id = expedition
-# text = Æмæ алцы дæр æлхæнынмæ нæ уыди.
+# text = Æмæ алцыдæр æлхæнынмæ нæ уыди.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
+2-3	алцыдæр	_	_	_	_	_	_	_	_
 2	алцы	алцы	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
 3	дæр	дæр	PART	_	_	_	_	_	_
 4	æлхæнынмæ	æлхæнын	NOUN	_	Case=All|Number=Sing|VerbForm=Inf	_	_	_	_
@@ -3250,10 +3254,11 @@
 
 # sent_id = 170
 # genre_id = expedition
-# text = Зарема Темболатовна: Алцы дæр.
+# text = Зарема Темболатовна: Алцыдæр.
 1	Зарема	Зарема	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	Темболатовна	Темболатовна	PROPN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
+4-5	Алцыдæр	_	_	_	_	_	_	_	_
 4	Алцы	алцы	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
 5	дæр	дæр	PART	_	_	_	_	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	_	_	_	_
@@ -3322,10 +3327,11 @@
 
 # sent_id = 174
 # genre_id = expedition
-# text = Зарема Темболатовна: Сæхи мидæг о.
+# text = Зарема Темболатовна: Сæхимидæг о.
 1	Зарема	Зарема	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	Темболатовна	Темболатовна	PROPN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
+4-5	Сæхимидæг	_	_	_	_	_	_	_	_
 4	Сæхи	сӕхӕдӕг	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 5	мидæг	мидæг	ADP	_	_	_	_	_	_
 6	о	о	INTJ	_	_	_	_	_	SpaceAfter=No
@@ -3994,7 +4000,7 @@
 
 # sent_id = 208
 # genre_id = expedition
-# text = Æмæ-иу цæххимæ-иу æй бауагътой, уый фæстæ-иу сæ сауыгътой æддейы.
+# text = Æмæ-иу цæххимæ-иу æй бауагътой, уыйфæстæ-иу сæ сауыгътой æддейы.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	SpaceAfter=No
 2	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
 3	иу	иу	PART	_	_	_	_	_	_
@@ -4006,6 +4012,7 @@
 8	ба	ба	PART	_	_	_	_	_	_
 9	уагътой	уадзын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
+11-12	уыйфæстæ	_	_	_	_	_	_	_	SpaceAfter=No
 11	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 12	фæстæ	фæстæ	ADP	_	_	_	_	_	SpaceAfter=No
 13	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
@@ -4180,7 +4187,7 @@
 
 # sent_id = 216
 # genre_id = expedition
-# text = Æмæ-иу зымæджы фыццаг арт бакодтой сугæй, уый фæстæ та-иу дзы æппарын байдыдтой сæнар.
+# text = Æмæ-иу зымæджы фыццаг арт бакодтой сугæй, уыйфæстæ та-иу дзы æппарын байдыдтой сæнар.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	SpaceAfter=No
 2	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
 3	иу	иу	PART	_	_	_	_	_	_
@@ -4192,6 +4199,7 @@
 8	кодтой	кæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 9	сугæй	суг	NOUN	_	Case=Abl|Number=Sing	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
+11-12	уыйфæстæ	_	_	_	_	_	_	_	_
 11	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 12	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 13	та	та	PART	_	_	_	_	_	SpaceAfter=No
