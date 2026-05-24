@@ -15,7 +15,7 @@ The present dataset contains 5454 sentences total. Training set contains 80% (43
 | Radio | 253 (6.15\%) | 37 (6.79\%) | 29 (5.32\%) |
 | Expedition | 4111 (93.85\%) | 508 (93.21\%) | 516 (94.68\%) |
 
-## Top 20 morphological tags
+## Top 20 morphological tags distribution
 | Tag | Train | Development | Test |
 | :--- | :---: | :---: | :---: |
 PUNCT | 14924 (24.17\%) | 1866 (23.49\%) | 1825 (23.85\%) |
@@ -39,7 +39,7 @@ PRON,Case=Gen\|Number=Sing\|Person=3\|<br>PronType=Prs | 643 (1.04\%) | 82 (1.03
 NUM,Case=Nom\|NumType=Card\|Number=Sing | 615 (1.00\%) | 65 (0.82\%) | 81 (1.06\%) |
 NOUN,Case=Gen\|Number=Sing | 578 (0.94\%) | 90 (1.13\%) | 64 (0.84\%) |
 
-## Top 20 abstract paradigm stats for lemmas
+## Top 20 abstract paradigms distribution for lemmas
 | Tag | Train | Development | Test |
 | :--- | :---: | :---: | :---: |
 |1\#1 | 43691 (70.77\%) | 5597 (70.45\%) | 5494 (71.81\%) |
