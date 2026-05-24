@@ -522,7 +522,7 @@
 
 # sent_id = 24
 # genre_id = expedition
-# text = Йер нæм ахæм сывæллæттæ вæййы, æмæ æрбацæуынц, æппын дæр иронау дзурын нæ зонынц, нæ, сыгъдæг уырыссагау дзургæ æрбацæуынц.
+# text = Йер нæм ахæм сывæллæттæ вæййы, æмæ æрбацæуынц, æппындæр иронау дзурын нæ зонынц, нæ, сыгъдæг уырыссагау дзургæ æрбацæуынц.
 1	Йер	йер	ADV	_	PronType=Dem	_	_	_	_
 2	нæм	мах	PRON	_	Case=All|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3	ахæм	ахæм	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
@@ -534,6 +534,7 @@
 8	æрба	æрба	PART	_	_	_	_	_	_
 9	цæуынц	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
+11-12	æппындæр	_	_	_	_	_	_	_	_
 11	æппын	æппын	ADV	_	_	_	_	_	_
 12	дæр	дæр	PART	_	_	_	_	_	_
 13	иронау	ирон	NOUN	_	Case=Equ|Number=Sing	_	_	_	_
@@ -774,7 +775,7 @@
 
 # sent_id = 36
 # genre_id = expedition
-# text = Цалхуызон нацийы!
+# text = Цал хуызон нацийы!
 1	Цалхуызон	цалхуызон	DET	_	PronType=Int	_	_	_	_
 2	нацийы	наци	NOUN	_	Case=Gen|Number=Sing	_	_	_	SpaceAfter=No
 3	!	!	PUNCT	_	_	_	_	_	_
@@ -995,12 +996,14 @@
 
 # sent_id = 51
 # genre_id = expedition
-# text = Æр тæккæ бафæрс цы фæнды лæппуйы дæр, чызг та цæмæй бæрæг у, уæд æй бирæтæ нæ зонынц, цæмæй бæрæг у, уый.
+# text = Æртæккæ бафæрс цыфæнды лæппуйы дæр, чызг та цæмæй бæрæг у, уæд æй бирæтæ нæ зонынц, цæмæй бæрæг у, уый.
+1-2	Æртæккæ	_	_	_	_	_	_	_	_
 1	Æр	ӕр	ADV	_	PronType=Dem	_	_	_	_
 2	тæккæ	тæккæ	PART	_	_	_	_	_	_
 3-4	бафæрс	_	_	_	_	_	_	_	_
 3	ба	ба	PART	_	_	_	_	_	_
 4	фæрс	фæрсын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
+5-6	цыфæнды	_	_	_	_	_	_	_	_
 5	цы	цы	DET	_	PronType=Int	_	_	_	_
 6	фæнды	фæндын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 7	лæппуйы	лӕппу	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -1397,7 +1400,8 @@
 
 # sent_id = 79
 # genre_id = expedition
-# text = Æр тæккæ æлхæнгæ кæнынц, фæлæ уæд та лæвар лæвæрдтой.
+# text = Æртæккæ æлхæнгæ кæнынц, фæлæ уæд та лæвар лæвæрдтой.
+1-2	Æртæккæ	_	_	_	_	_	_	_	_
 1	Æр	ӕр	ADV	_	PronType=Dem	_	_	_	_
 2	тæккæ	тæккæ	PART	_	_	_	_	_	_
 3	æлхæнгæ	æлхæнын	VERB	_	VerbForm=Conv	_	_	_	_
@@ -1642,9 +1646,10 @@
 
 # sent_id = 91
 # genre_id = expedition
-# text = Стæй та уый фæстæ иннæ сарæзтой?
+# text = Стæй та уыйфæстæ иннæ сарæзтой?
 1	Стæй	стæй	ADV	_	_	_	_	_	_
 2	та	та	PART	_	_	_	_	_	_
+3-4	уыйфæстæ	_	_	_	_	_	_	_	_
 3	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 4	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 5	иннæ	иннӕ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -1898,7 +1903,7 @@
 
 # sent_id = 103
 # genre_id = expedition
-# text = Йер фыссын нæ зыдта, кæсын дæр æппын дæр нæ зыдта, Фатик, нæ, фæлæ-иу уыдис афтæ, æмæ мæнæ цыппæргай æхсæвтæ-иу нын дзырдта æмбисондтæ, таурæгътæ, æмдзæвгæтæ.
+# text = Йер фыссын нæ зыдта, кæсын дæр æппындæр нæ зыдта, Фатик, нæ, фæлæ-иу уыдис афтæ, æмæ мæнæ цыппæргай æхсæвтæ-иу нын дзырдта æмбисондтæ, таурæгътæ, æмдзæвгæтæ.
 1	Йер	йер	ADV	_	PronType=Dem	_	_	_	_
 2	фыссын	фыссын	VERB	_	VerbForm=Inf	_	_	_	_
 3	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
@@ -1906,6 +1911,7 @@
 5	,	,	PUNCT	_	_	_	_	_	_
 6	кæсын	кæсын	VERB	_	VerbForm=Inf	_	_	_	_
 7	дæр	дæр	PART	_	_	_	_	_	_
+8-9	æппындæр	_	_	_	_	_	_	_	_
 8	æппын	æппын	ADV	_	_	_	_	_	_
 9	дæр	дæр	PART	_	_	_	_	_	_
 10	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
@@ -1994,7 +2000,7 @@
 
 # sent_id = 106
 # genre_id = expedition
-# text = Мæ лæппутæм дæр цалынмæ бафидыдтам уæдмæ ницы загътон.
+# text = Мæ лæппутæм дæр цалынмæ бафидыдтам уæд мæ ницы загътон.
 1	Мæ	мæ	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 2	лæппутæм	лӕппу	NOUN	_	Case=All|Number=Plur	_	_	_	_
 3	дæр	дæр	PART	_	_	_	_	_	_
@@ -2021,7 +2027,7 @@
 
 # sent_id = 108
 # genre_id = expedition
-# text = Мæнæ, кæд æй федтат, уæртæ уыцырдыгæй æр тæккæ бирæ хæлд хæдзæрттæ и.
+# text = Мæнæ, кæд æй федтат, уæртæ уыцырдыгæй æртæккæ бирæ хæлд хæдзæрттæ и.
 1	Мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	_	_	_	_
 3	кæд	кæд	SCONJ	_	_	_	_	_	_
@@ -2032,6 +2038,7 @@
 8-9	уыцырдыгæй	_	_	_	_	_	_	_	_
 8	уыцы	уыцы	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
 9	рдыгæй	æрдæг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
+9-10	æртæккæ	_	_	_	_	_	_	_	_
 9	æр	ӕр	ADV	_	PronType=Dem	_	_	_	_
 10	тæккæ	тæккæ	PART	_	_	_	_	_	_
 11	бирæ	бирæ	ADJ	_	_	_	_	_	_
@@ -2065,7 +2072,7 @@
 
 # sent_id = 111
 # genre_id = expedition
-# text = Ну, хъæуы цæрджытæн уымæй тас нæу, мах уæд дæр дзурæм иронау, нæ цот дзурынц иронау, уæд дæр не ‘гъдæуттыл хæцæм, нæ фольклор дæр хъахъхъæнæм.
+# text = Ну, хъæуы цæрджытæн уымæй тас нæу, мах уæддæр дзурæм иронау, нæ цот дзурынц иронау, уæд дæр не ‘гъдæуттыл хæцæм, нæ фольклор дæр хъахъхъæнæм.
 1	Ну	ну	INTJ	_	_	_	_	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	_	_	_	_
 3	хъæуы	хъӕу	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -2075,6 +2082,7 @@
 7	нæу	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
 9	мах	мах	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+10-11	уæддæр	_	_	_	_	_	_	_	_
 10	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 11	дæр	дæр	PART	_	_	_	_	_	_
 12	дзурæм	дзурын	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -2352,7 +2360,7 @@
 
 # sent_id = 124
 # genre_id = expedition
-# text = Æмæ сисы сæрты куыдæй сцæйгæпп кодта, афтæ йæ йæдæй ныххафт ласта сагоййæ.
+# text = Æмæ сисы сæрты куыдæй сцæй гæпп кодта, афтæ йæ йæдæй ныххафт ласта сагоййæ.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2	сисы	сис	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	сæрты	сӕр	NOUN	_	Case=Ine|Number=Plur	_	_	_	_
@@ -2536,7 +2544,7 @@
 
 # sent_id = 134
 # genre_id = expedition
-# text = Агузарова Изета: Кæд Зойæйæн хъыг нæ уа, уæд дæр та æз дæр мæхицæй дæнцæг æрхæссон.
+# text = Агузарова Изета: Кæд Зойæйæн хъыг нæ уа, уæддæр та æз дæр мæхицæй дæнцæг æрхæссон.
 1	Агузарова	Агузарова	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	Изета	Изета	PROPN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
@@ -2546,6 +2554,7 @@
 7	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 8	уа	уæвын	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	_	_	_	_
+10-11	уæддæр	_	_	_	_	_	_	_	_
 10	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 11	дæр	дæр	PART	_	_	_	_	_	_
 12	та	та	PART	_	_	_	_	_	_
@@ -2838,7 +2847,7 @@
 
 # sent_id = 149
 # genre_id = expedition
-# text = Вæййы дзы дуаргæнæг, дуаргæнæг, фыццаг дæр уыцы лæг байгом кæны Алардыйæн йæ дуар, рахæссы нывтæ, цы дзы вæййы, уыдон, фароны арæхъытæ, иннæ азтæй ма… раздæры азтæй дзы цы баззайы, уыдон, бæгæны дæр ныууадзынц иу цасдæр, æмæ уый дæр æвæрд вæййы мидæгæй хæдзары æмæ йæ адæммæ рахæссынц иу афæдзы фæстæ.
+# text = Вæййы дзы дуаргæнæг, дуаргæнæг, фыццаг дæр уыцы лæг байгом кæны Алардыйæн йæ дуар, рахæссы нывтæ, цы дзы вæййы, уыдон, фароны арæхъытæ, иннæ азтæй ма… раздæры азтæй дзы цы баззайы, уыдон, бæгæны дæр ныууадзынц иуцасдæр, æмæ уый дæр æвæрд вæййы мидæгæй хæдзары æмæ йæ адæммæ рахæссынц иу афæдзы фæстæ.
 1	Вæййы	вæййын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 2	дзы	уый	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	дуаргæнæг	дуаргæнæг	NOUN	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No
@@ -2890,6 +2899,7 @@
 45-46	ныууадзынц	_	_	_	_	_	_	_	_
 45	ны	ны	PART	_	_	_	_	_	_
 46	уадзынц	уадзын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+47-48	иуцасдæр	_	_	_	_	_	_	_	SpaceAfter=No
 47	иу	иу	NUM	_	Case=Nom|NumType=Card|Number=Sing	_	_	_	_
 48	цасдæр	цасдӕр	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No
 49	,	,	PUNCT	_	_	_	_	_	_
@@ -3075,7 +3085,7 @@
 
 # sent_id = 160
 # genre_id = radio
-# text = Объединённый урок йер дыууæ къласы, уæд-иу джихтæ кодтон алы хатт дæр, зæгъын, куы мæм ракæсид.
+# text = Объединённый урок йер дыууæ къласы, уæд-иу джихтæ кодтон алыхатт дæр, зæгъын, куы мæм ракæсид.
 1	Объединённый	объединённый	ADJ	_	_	_	_	_	_
 2	урок	урок	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	йер	йер	ADV	_	PronType=Dem	_	_	_	_
@@ -3087,6 +3097,7 @@
 9	иу	иу	PART	_	_	_	_	_	_
 10	джихтæ	джих	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 11	кодтон	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
+12-13	алыхатт	_	_	_	_	_	_	_	_
 12	алы	алы	DET	_	PronType=Tot	_	_	_	_
 13	хатт	хатт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	дæр	дæр	PART	_	_	_	_	_	SpaceAfter=No
@@ -3102,7 +3113,7 @@
 
 # sent_id = 161
 # genre_id = expedition
-# text = Æхсæнтæ дон мæнæ размæ, адæм цæуæн, къæхты бынмæ куы ракалай, йер бирæтæ-иу, мæнæ-иу æз мæ сыхæгтæй хъуыды кæнын, гъе уымæ йед дæр-иу сæм ницы касти.
+# text = Æхсæнтæ дон мæнæ размæ, адæм цæуæн, къæхты бынмæ куы ракалай, йер бирæтæ-иу, мæнæ-иу æз мæ сыхæгтæй хъуыды кæнын, гъе уымæ йеддæр-иу сæм ницы касти.
 1	Æхсæнтæ	ӕхсӕн	NOUN	_	Case=Nom|Number=Plur|VerbForm=Inf2	_	_	_	_
 2	дон	дон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	_
@@ -3134,6 +3145,7 @@
 28	,	,	PUNCT	_	_	_	_	_	_
 29	гъе	гъе	INTJ	_	_	_	_	_	_
 30	уымæ	уый	PRON	_	Case=All|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
+31-32	йеддæр	_	_	_	_	_	_	_	_
 31	йед	йед	PRON	_	Case=Nom|Number=Sing	_	_	_	_
 32	дæр	дæр	PART	_	_	_	_	_	SpaceAfter=No
 33	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
@@ -3346,9 +3358,10 @@
 
 # sent_id = 175
 # genre_id = radio
-# text = Фæлæ ма уæд дæр цавæр цаутæ æрлæууынц дæхи зæрдыл та?
+# text = Фæлæ ма уæддæр цавæр цаутæ æрлæууынц дæхи зæрдыл та?
 1	Фæлæ	фæлæ	CCONJ	_	_	_	_	_	_
 2	ма	ма	PART	_	_	_	_	_	_
+3-4	уæддæр	_	_	_	_	_	_	_	_
 3	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 4	дæр	дæр	PART	_	_	_	_	_	_
 5	цавæр	цавæр	DET	_	PronType=Int	_	_	_	_
@@ -3449,12 +3462,13 @@
 
 # sent_id = 182
 # genre_id = expedition
-# text = Фæлæ, дам, нæм уый фæстæ фæдзурдзысты, æмæ дзы куыд бахæрæм, афтæ, зæгъгæ.
+# text = Фæлæ, дам, нæм уыйфæстæ фæдзурдзысты, æмæ дзы куыд бахæрæм, афтæ, зæгъгæ.
 1	Фæлæ	фæлæ	CCONJ	_	_	_	_	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	_	_	_	_
 3	дам	дам	PART	_	_	_	_	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	_	_	_	_
 5	нæм	мах	PRON	_	Case=All|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6-7	уыйфæстæ	_	_	_	_	_	_	_	_
 6	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 7	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 8-9	фæдзурдзысты	_	_	_	_	_	_	_	SpaceAfter=No
@@ -4781,7 +4795,7 @@
 
 # sent_id = 254
 # genre_id = radio
-# text = Сохъуырты Валерий: Нæхимæ-иу бацыдтæн, хъуыдытæ-хъуыдытæ, пъартфел-иу ныззыввытт ластон иу фарс æмæ та-иу хуыссæныл мæхи баппæрстон, æмæ та хъуыды кæнын, райсом, зæгъын, хъуамæ зæгъон.
+# text = Сохъуырты Валерий: Нæхимæ-иу бацыдтæн, хъуыдытæ-хъуыдытæ, пъартфел-иу ныззыввытт ластон иуфарс æмæ та-иу хуыссæныл мæхи баппæрстон, æмæ та хъуыды кæнын, райсом, зæгъын, хъуамæ зæгъон.
 1	Сохъуырты	Сохъуыртæ	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
 2	Валерий	Валерий	PROPN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
@@ -4803,6 +4817,7 @@
 17	ны	ны	PART	_	_	_	_	_	_
 18	зыввытт	зыгъгъуытт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 19	ластон	ласын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
+20-21	иуфарс	_	_	_	_	_	_	_	_
 20	иу	иу	NUM	_	Case=Nom|NumType=Card|Number=Sing	_	_	_	_
 21	фарс	фарс	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 22	æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -5049,9 +5064,10 @@
 
 # sent_id = 268
 # genre_id = expedition
-# text = Нæ кæсынц æр тæккæ чиныг.
+# text = Нæ кæсынц æртæккæ чиныг.
 1	Нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 2	кæсынц	кæсын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+3-4	æртæккæ	_	_	_	_	_	_	_	_
 3	æр	ӕр	ADV	_	PronType=Dem	_	_	_	_
 4	тæккæ	тæккæ	PART	_	_	_	_	_	_
 5	чиныг	чиныг	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
@@ -5318,7 +5334,8 @@
 
 # sent_id = 280
 # genre_id = expedition
-# text = Уый фæстæ-иу сæ телтæй бабастой, æмæ-иу сæ ауагътой, æрбадысты-иу, æмæ-иу сæ уый фæстæ хæдзармæ ‘рластой.
+# text = Уыйфæстæ-иу сæ телтæй бабастой, æмæ-иу сæ ауагътой, æрбадысты-иу, æмæ-иу сæ уыйфæстæ хæдзармæ ‘рластой.
+1-2	Уыйфæстæ	_	_	_	_	_	_	_	SpaceAfter=No
 1	Уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 2	фæстæ	фæстæ	ADP	_	_	_	_	_	SpaceAfter=No
 3	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
@@ -5347,6 +5364,7 @@
 23	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
 24	иу	иу	PART	_	_	_	_	_	_
 25	сæ	уыдон	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
+26-27	уыйфæстæ	_	_	_	_	_	_	_	_
 26	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 27	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 28	хæдзармæ	хӕдзар	NOUN	_	Case=All|Number=Sing	_	_	_	_
@@ -5780,7 +5798,7 @@
 
 # sent_id = 303
 # genre_id = expedition
-# text = Йер æй æнæуый та йеды… чингуыты никуы фыст и, цæй тыххæй афтæ йæ схуыдтой.
+# text = Йер æй æнæуый та йеды… чингуыты никуы фыст и, цæйтыххæй афтæ йæ схуыдтой.
 1	Йер	йер	ADV	_	PronType=Dem	_	_	_	_
 2	æй	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	æнæуый	æнæуый	ADV	_	_	_	_	_	_
@@ -5792,6 +5810,7 @@
 9	фыст	фыссын	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 10	и	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	_	_	_	_
+12-13	цæйтыххæй	_	_	_	_	_	_	_	_
 12	цæй	цы	PRON	_	Case=Gen|Number=Sing|PronType=Int	_	_	_	_
 13	тыххæй	тыххæй	ADP	_	_	_	_	_	_
 14	афтæ	афтӕ	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
@@ -6237,7 +6256,7 @@
 
 # sent_id = 330
 # genre_id = expedition
-# text = Æмæ мах ахæм адæмы хатт стæм æмæ тæргæ никæйы кæнæм, æгайт дæр ма цæуынц ардæм.
+# text = Æмæ мах ахæм адæмы хатт стæм æмæ тæргæ никæйы кæнæм, æгайтдæрма цæуынц ардæм.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2	мах	мах	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3	ахæм	ахæм	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
@@ -6249,6 +6268,7 @@
 9	никæйы	ничи	PRON	_	Case=Gen|Number=Sing|PronType=Neg	_	_	_	_
 10	кæнæм	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	_	_	_	_
+12-14	æгайтдæрма	_	_	_	_	_	_	_	_
 12	æгайт	æгайт	ADV	_	_	_	_	_	_
 13	дæр	дæр	PART	_	_	_	_	_	_
 14	ма	ма	PART	_	_	_	_	_	_
@@ -6310,10 +6330,11 @@
 
 # sent_id = 334
 # genre_id = expedition
-# text = Мира Тимофеевна: Цы фæнды хъуыддаг дæр ныууадзы æмæ.
+# text = Мира Тимофеевна: Цыфæнды хъуыддаг дæр ныууадзы æмæ.
 1	Мира	Мира	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	Тимофеевна	Тимофеевна	PROPN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
+4-5	Цыфæнды	_	_	_	_	_	_	_	_
 4	Цы	цы	DET	_	PronType=Int	_	_	_	_
 5	фæнды	фæндын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 6	хъуыддаг	хъуыддаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -6987,7 +7008,7 @@
 
 # sent_id = 373
 # genre_id = expedition
-# text = – Кæд ын алхæдтай, уæд дæр цы диссаг у, уой цæстмæ цæмæн дарыс?
+# text = – Кæд ын алхæдтай, уæддæр цы диссаг у, уой цæстмæ цæмæн дарыс?
 1	–	–	PUNCT	_	_	_	_	_	_
 2	Кæд	кæд	SCONJ	_	_	_	_	_	_
 3	ын	уый	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -6995,6 +7016,7 @@
 4	а	а	PART	_	_	_	_	_	_
 5	æлхæдтай	æлхæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
+7-8	уæддæр	_	_	_	_	_	_	_	_
 7	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 8	дæр	дæр	PART	_	_	_	_	_	_
 9	цы	цы	DET	_	PronType=Int	_	_	_	_
@@ -7185,7 +7207,7 @@
 
 # sent_id = 383
 # genre_id = expedition
-# text = Нæ нæ рох кæнынц, мах дæр ам нæ бон цы ис кæнæм, фос дарæм, зæххы куыст дæр кæнæм цалынмæ бон уа, уæдмæ кæндзыстæм, стæй уæд нæ бон куы нал уа, уæд ницы уал.
+# text = Нæ нæ рох кæнынц, мах дæр ам нæ бон цы ис кæнæм, фос дарæм, зæххы куыст дæр кæнæм цалынмæ бон уа, уæд мæ кæндзыстæм, стæй уæд нæ бон куы нал уа, уæд ницы уал.
 1	Нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 2	нæ	мах	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3	рох	рох	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -7652,7 +7674,7 @@
 
 # sent_id = 408
 # genre_id = expedition
-# text = Æмæ гъе уый дæр базонынц, æмæ сæ нæ фæнды æппын дæр чиныджы кæсын.
+# text = Æмæ гъе уый дæр базонынц, æмæ сæ нæ фæнды æппындæр чиныджы кæсын.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2	гъе	гъе	INTJ	_	_	_	_	_	_
 3	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
@@ -7665,6 +7687,7 @@
 9	сæ	уыдон	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 10	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 11	фæнды	фæндын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+12-13	æппындæр	_	_	_	_	_	_	_	_
 12	æппын	æппын	ADV	_	_	_	_	_	_
 13	дæр	дæр	PART	_	_	_	_	_	_
 14	чиныджы	чиныг	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -8573,7 +8596,7 @@
 
 # sent_id = 452
 # genre_id = expedition
-# text = Мадина: Æмæ йер хуызисæг чи уа, уый уый фæстæ чындзæн йе ‘фсымæрыл нымад у, нæ?
+# text = Мадина: Æмæ йер хуызисæг чи уа, уый уыйфæстæ чындзæн йе ‘фсымæрыл нымад у, нæ?
 1	Мадина	Мадина	PROPN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	_	_	_	_
 3	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -8583,6 +8606,7 @@
 7	уа	уæвын	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	_	_	_	_
 9	уый	уый	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
+10-11	уыйфæстæ	_	_	_	_	_	_	_	_
 10	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 11	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 12	чындзæн	чындз	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -8628,7 +8652,7 @@
 
 # sent_id = 456
 # genre_id = expedition
-# text = Хабалова Земфира: Ахуыргонд нæ уыдысты, фæлæ кæй дзырдтой, уыдон тынг раст уыдысты, алцы дæр тынг раст уыдысты, алцы дæр.
+# text = Хабалова Земфира: Ахуыргонд нæ уыдысты, фæлæ кæй дзырдтой, уыдон тынг раст уыдысты, алцыдæр тынг раст уыдысты, алцыдæр.
 1	Хабалова	Хабалова	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	Земфира	Земфира	PROPN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	_	_	_	_
@@ -8645,12 +8669,14 @@
 14	раст	раст	ADJ	_	_	_	_	_	_
 15	уыдысты	уæвын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	_	_	_	_
+17-18	алцыдæр	_	_	_	_	_	_	_	_
 17	алцы	алцы	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
 18	дæр	дæр	PART	_	_	_	_	_	_
 19	тынг	тынг	ADV	_	_	_	_	_	_
 20	раст	раст	ADJ	_	_	_	_	_	_
 21	уыдысты	уæвын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	_	_	_	_
+23-24	алцыдæр	_	_	_	_	_	_	_	_
 23	алцы	алцы	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
 24	дæр	дæр	PART	_	_	_	_	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	_	_	_	_
