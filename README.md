@@ -30,12 +30,12 @@ ADV,PronType=Int | 1014 (1.64\%) | 113 (1.42\%) | 116 (1.52\%) |
 ADV,PronType=Dem | 999 (1.62\%) | 123 (1.55\%) | 139 (1.82\%) |
 ADJ | 889 (1.44\%) | 121 (1.52\%) | 104 (1.36\%) |
 ADV,Deixis=Remt\|PronType=Dem | 852 (1.38\%) | 133 (1.67\%) | 111 (1.45\%) |
-VERB,Mood=Ind\|Number=Sing\|Person=3\|Tense=Pres\|VerbForm=Fin | 829 (1.34\%) | 94 (1.18\%) | 85 (1.11\%) |
-VERB,Aspect=Perf\|Mood=Ind\|Number=Sing\|Person=3\|Tense=Past\|VerbForm=Fin | 747 (1.21\%) | 95 (1.20\%) | 88 (1.15\%) |
+VERB,Mood=Ind\|Number=Sing\|Person=3\|<br>Tense=Pres\|VerbForm=Fin | 829 (1.34\%) | 94 (1.18\%) | 85 (1.11\%) |
+VERB,Aspect=Perf\|Mood=Ind\|Number=Sing\|<br>Person=3\|Tense=Past\|VerbForm=Fin | 747 (1.21\%) | 95 (1.20\%) | 88 (1.15\%) |
 INTJ | 731 (1.18\%) | 116 (1.46\%) | 135 (1.76\%) |
 ADV,Deixis=Prox\|PronType=Dem | 700 (1.13\%) | 77 (0.97\%) | 92 (1.20\%) |
-VERB,Mood=Ind\|Number=Sing\|Person=3\|Tense=Past\|VerbForm=Fin | 670 (1.09\%) | 96 (1.21\%) | 97 (1.27\%) |
-PRON,Case=Gen\|Number=Sing\|Person=3\|PronType=Prs | 643 (1.04\%) | 82 (1.03\%) | 88 (1.15\%) |
+VERB,Mood=Ind\|Number=Sing\|Person=3\|<br>Tense=Past\|VerbForm=Fin | 670 (1.09\%) | 96 (1.21\%) | 97 (1.27\%) |
+PRON,Case=Gen\|Number=Sing\|Person=3\|<br>PronType=Prs | 643 (1.04\%) | 82 (1.03\%) | 88 (1.15\%) |
 NUM,Case=Nom\|NumType=Card\|Number=Sing | 615 (1.00\%) | 65 (0.82\%) | 81 (1.06\%) |
 NOUN,Case=Gen\|Number=Sing | 578 (0.94\%) | 90 (1.13\%) | 64 (0.84\%) |
 
